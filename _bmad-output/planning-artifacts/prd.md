@@ -1,5 +1,9 @@
 ---
-stepsCompleted: ['step-01-init', 'step-02-discovery', 'step-02b-vision', 'step-02c-executive-summary', 'step-03-success', 'step-04-journeys', 'step-05-domain', 'step-06-innovation', 'step-07-project-type', 'step-08-scoping', 'step-09-functional', 'step-10-nonfunctional', 'step-11-polish', 'step-12-complete']
+stepsCompleted: ['step-01-init', 'step-02-discovery', 'step-02b-vision', 'step-02c-executive-summary', 'step-03-success', 'step-04-journeys', 'step-05-domain', 'step-06-innovation', 'step-07-project-type', 'step-08-scoping', 'step-09-functional', 'step-10-nonfunctional', 'step-11-polish', 'step-12-complete', 'step-e-01-discovery', 'step-e-02-review', 'step-e-03-edit']
+lastEdited: '2026-04-06'
+editHistory:
+  - date: '2026-04-06'
+    changes: 'Added 12 new Phase 1 policies (Cats in Care, Cat Relinquish, Adoption, Fostering, Death of a Cat, Euthanasia, Privacy Policy, Financial, Escape of a Cat, Transportation of a Cat, Fosterer Cleaning, Volunteer). Added 2 new user journeys (Emma — relinquishment, Laura — cat death in care). Updated document counts and FRs 43–54.'
 inputDocuments: ['_bmad-output/planning-artifacts/product-brief-forgotten-felines-policies-2026-03-21.md', 'docs/existing/Forgotten_Felines_Adopter_Visit_Policy.pdf', 'docs/existing/Forgotten_Felines_Fosterer_Visit_Policy.pdf', 'docs/existing/Forgotten_Felines_Data_Retention_Policy.pdf', 'docs/existing/Forgotten_Felines_GDPR_Trustee_Policy.pdf', 'docs/existing/Forgotten_Felines_GDPR_Volunteer_Policy.pdf', 'docs/existing/Forgotten Felines Cat Rescue Bullying Policy.docx']
 workflowType: 'prd'
 classification:
@@ -24,7 +28,7 @@ Forgotten Felines (Charity No. 1181190) is a foster-based cat rescue operating i
 
 The charity holds an active lottery licence under the Gambling Act 2005 and operates across Facebook, Instagram, TikTok, and a public website. Day-to-day operations — all internal communication between trustees and fosterers — take place on Facebook Messenger. This presents inherent GDPR compliance challenges that the policy suite must address honestly and practically.
 
-This PRD defines the requirements for a complete policy suite: revising 6 existing policies and creating 15 new documents, including governance registers, acknowledgement forms, and public-facing notices. The suite serves trustees, fosterers (~20 active), adopters, and the general public — each with distinct needs, access levels, and obligations.
+This PRD defines the requirements for a complete policy suite: revising 6 existing policies and creating 27 new documents, including operational cat care policies, governance registers, acknowledgement forms, and public-facing notices. The suite serves trustees, fosterers (~20 active), adopters, and the general public — each with distinct needs, access levels, and obligations.
 
 ### What Makes This Special
 
@@ -95,8 +99,8 @@ Every document follows a two-tier structure: a full governance policy and a plai
 **Revise existing (6):**
 Adopter Visit Policy + acknowledgement form, Fosterer Visit Policy + acknowledgement form, Data Retention Policy, GDPR Trustee Policy, GDPR Volunteer Policy, Bullying Policy
 
-**Create new (10):**
-Roles & Responsibilities Register, Incident Reporting & Complaints Policy, Safeguarding Policy, Harassment Policy, Social Media Policy, Lottery & Fundraising Compliance Policy, Privacy Notice, Trustee Code of Conduct & Governance Policy, Adopter Visit Acknowledgement Form, Fosterer Policy Acknowledgement Form
+**Create new (22):**
+Roles & Responsibilities Register, Incident Reporting & Complaints Policy, Safeguarding Policy, Harassment Policy, Social Media Policy, Lottery & Fundraising Compliance Policy, Privacy Notice, Trustee Code of Conduct & Governance Policy, Adopter Visit Acknowledgement Form, Fosterer Policy Acknowledgement Form, Cats in Care Policy, Cat Relinquish Policy, Adoption Policy, Fostering Policy, Death of a Cat Policy, Euthanasia Policy, Privacy Policy, Financial Policy, Escape of a Cat Policy, Transportation of a Cat Policy, Fosterer Cleaning Policy, Volunteer Policy
 
 ### Growth Features — Phase 2
 
@@ -184,6 +188,40 @@ Priya joins the Forgotten Felines trustee team. She needs to understand her resp
 
 ---
 
+---
+
+### Journey 6: Emma the Fosterer — A Cat is Relinquished
+
+Emma has been fostering Amber, a five-year-old tortoiseshell, for three weeks. The cat's owner contacts Forgotten Felines asking to surrender Amber permanently. Emma is the first point of contact.
+
+**Before the policy suite:** Emma isn't sure what information she needs to collect or whether she's allowed to take Amber directly. She doesn't know what to tell the owner about data processing or what happens next. She takes Amber in informally, with no paperwork.
+
+**With the policy suite:** Emma follows the Cat Relinquish Policy. She collects the required information from the owner using the standard intake form, explains how data will be used (aligned with the Privacy Policy), and confirms next steps. She knows her role stops at intake — a trustee handles the formal acceptance and assessment decisions.
+
+**Climax:** The owner is distressed. Emma can reassure them with a clear, compassionate process rather than improvising. The Fostering Policy gives her authority to house Amber temporarily while the trustee team assesses the relinquishment.
+
+**Resolution:** Amber is formally accepted, fully documented, and assessed for rehoming. The owner receives written confirmation. Emma's role is clear throughout.
+
+**Capabilities revealed:** Cat Relinquish Policy, Fostering Policy, Privacy Policy, Cats in Care Policy, data intake and consent process.
+
+---
+
+### Journey 7: Laura the Fosterer — A Cat Dies in Care
+
+Laura is fostering Pip, a senior cat recovering from illness. Pip deteriorates overnight and dies in the early hours of the morning.
+
+**Before the policy suite:** Laura is devastated and has no idea what she's supposed to do or who to contact. She doesn't know whether she's obliged to report it, how to document it, or what to tell the charity. She contacts a trustee informally via WhatsApp.
+
+**With the policy suite:** Laura knows from the Death of a Cat Policy exactly what to do: contact the named on-call trustee, follow the documentation procedure, and if there is any uncertainty about cause of death, seek veterinary confirmation. The policy gives her a clear protocol and reassures her she has done nothing wrong. The Euthanasia Policy — which she read during onboarding — also helped her understand the decision-making process if Pip had reached that point before passing naturally.
+
+**Climax:** Laura documents Pip's death using the standard record form. The trustee handles communication with Pip's prospective adopter, who was already in the process of being matched.
+
+**Resolution:** Pip's death is handled with dignity, documented correctly, and Laura receives appropriate emotional support. The process protects the fosterer and the charity.
+
+**Capabilities revealed:** Death of a Cat Policy, Euthanasia Policy, Cats in Care Policy, Incident Reporting & Complaints Policy (for documentation), escalation contacts.
+
+---
+
 ### Journey Requirements Summary
 
 | Journey | Key Capabilities Required |
@@ -193,6 +231,8 @@ Priya joins the Forgotten Felines trustee team. She needs to understand her resp
 | Rachel — Complaint handling | Complaints Policy, Roles Register, channel guidance, acknowledgement as evidence |
 | Pat — Lottery entry | Lottery Policy, Privacy Notice, consent records |
 | Priya — New trustee | Roles Register, Trustee Code of Conduct, GDPR Trustee Policy, onboarding |
+| Emma — Cat relinquishment | Cat Relinquish Policy, Fostering Policy, Privacy Policy, Cats in Care Policy |
+| Laura — Cat death in care | Death of a Cat Policy, Euthanasia Policy, Cats in Care Policy, Incident Reporting |
 
 ---
 
@@ -375,6 +415,18 @@ Each policy that is end-user facing requires two versions:
 | 14 | Lottery & Fundraising Compliance Policy | New |
 | 15 | Privacy Notice (public-facing) | New |
 | 16 | Trustee Code of Conduct & Governance Policy | New |
+| 17 | Cats in Care Policy | New |
+| 18 | Cat Relinquish Policy | New |
+| 19 | Adoption Policy | New |
+| 20 | Fostering Policy | New |
+| 21 | Death of a Cat Policy | New |
+| 22 | Euthanasia Policy | New |
+| 23 | Privacy Policy | New |
+| 24 | Financial Policy | New |
+| 25 | Escape of a Cat Policy | New |
+| 26 | Transportation of a Cat Policy | New |
+| 27 | Fosterer Cleaning Policy | New |
+| 28 | Volunteer Policy | New |
 
 ### Post-MVP Documents — Phase 2
 
@@ -468,6 +520,21 @@ Each policy that is end-user facing requires two versions:
 - FR40: Each policy can be updated independently without requiring the entire suite to be re-published
 - FR41: Trustees can onboard a new trustee using the policy suite as the primary reference document
 - FR42: The charity can demonstrate to the Charity Commission or ICO that governance policies exist, are current, and have been agreed to by relevant parties
+
+### Operational Cat Care
+
+- FR43: The Cats in Care Policy defines the minimum standard of care fosterers must provide, covering feeding, housing, health monitoring, veterinary access, and record-keeping for each cat in foster
+- FR44: The Cat Relinquish Policy defines the intake process for owner-surrendered cats, including the information required from the relinquishing owner, data consent, interim foster placement, and trustee sign-off
+- FR45: The Adoption Policy defines the end-to-end adoption process from application through approval, matching, visit, and handover — distinct from the Adopter Visit Policy which covers conduct during the visit only
+- FR46: The Fostering Policy defines the terms of the fosterer relationship with the charity, including responsibilities, authority limits, permitted actions without trustee approval, and obligations when hosting cats with specific needs
+- FR47: The Death of a Cat Policy defines the procedure for reporting, documenting, and handling the death of a cat in foster care, including veterinary certification requirements, communication to relevant parties, and record retention
+- FR48: The Euthanasia Policy defines the decision-making authority and process for authorising euthanasia, including who can consent, what veterinary criteria apply, and how the decision is documented and communicated to fosterers and trustees
+- FR49: The Privacy Policy (standalone) provides a comprehensive internal governance document covering all personal data processed by the charity — distinct from the public-facing Privacy Notice, which addresses transparency obligations to data subjects
+- FR50: The Financial Policy defines how the charity's funds are managed, including authorisation thresholds for expenditure, reimbursement procedures for fosterer expenses (e.g. vet costs), banking controls, and financial reporting obligations to trustees
+- FR51: The Escape of a Cat Policy defines the immediate response procedure when a cat escapes from a foster home or during transport, including search steps, who to notify, how to alert the public, and how the incident is documented
+- FR52: The Transportation of a Cat Policy defines the requirements for safely transporting cats, including approved carrier standards, journey duration limits, temperature and ventilation requirements, and who is authorised to transport cats on behalf of the charity
+- FR53: The Fosterer Cleaning Policy defines the hygiene and biosecurity standards fosterers must maintain, including isolation procedures for new cats, cleaning protocols between placements, and infection control requirements when a cat is ill
+- FR54: The Volunteer Policy defines the terms of engagement for all volunteers (excluding trustees, who are governed by the Trustee Code of Conduct), covering onboarding, role boundaries, code of conduct, data handling obligations, and offboarding
 
 ---
 
