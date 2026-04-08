@@ -34,8 +34,8 @@ This register names the individual responsible for each key function within Forg
 | Chair | Bev Hibbert | Casting vote on trustee decisions; leads trustee meetings |
 | Founder | Bev Hibbert | |
 | Treasurer / Accounts | Bev Hibbert | Day-to-day financial management |
-| Lottery Licence Holder | [TBC] | Named individual on Gambling Act licence |
-| Data Protection Lead | [TBC] | Handles subject access requests; reports breaches to ICO within 72 hours |
+| Lottery Licence Holder | [TBC] | Named individual on Gambling Act licence — must verify against licence document |
+| Data Protection Lead | Sam Mathias | Handles subject access requests; reports breaches to ICO within 72 hours |
 | Safeguarding Lead | [TBC] | Named lead for recognising and escalating safeguarding concerns |
 | Crisis / Media Contact | [TBC] | Speaks for the charity if an incident becomes public |
 | Policy Management | Sam Mathias | Maintains and updates the policy suite |
@@ -49,14 +49,14 @@ This register names the individual responsible for each key function within Forg
 | Flea & Wormer Treatments | Sam Mathias | |
 | Food Ordering | Rhian Vaughan | |
 | Vet Liaison | [TBC] | Primary contact with nominated vet practice(s) |
-| Home Checker | [TBC] | Assesses and approves foster homes before first placement |
+| Home Checker | Trustee vote | Virtual assessment — decision made collectively by trustees |
 
 ### Operations — Adoptions & Fostering
 
 | Role | Named Individual | Notes |
 |---|---|---|
-| Adoption Approvals | [TBC] | Makes final decision to approve or decline adoption applications |
-| On-Call Contact for Fosterers | [TBC] | Fosterers' first point of contact out of hours |
+| Adoption Approvals | Trustee vote | Decision made collectively by trustees — no single named approver |
+| On-Call Contact for Fosterers | Becca James, Julia Card, Rhian Vaughan, Claire Burgess, Sam Mathias | Rota shared across Foster Coordinators |
 | Foster Coordinator | Becca James, Julia Card, Rhian Vaughan, Claire Burgess, Sam Mathias | Shared role — coordinates foster placements and visits |
 
 ### Communications & Administration
@@ -85,6 +85,7 @@ This register names the individual responsible for each key function within Forg
 - Insurance — manages charity insurance
 - Fundraising Lead
 - Foster Coordinator
+- On-Call Contact for Fosterers (rota)
 - Main Social Media — Facebook, Instagram, TikTok
 - Website Content — updates content on the charity website
 
@@ -99,14 +100,17 @@ This register names the individual responsible for each key function within Forg
 
 ### Julia Card
 - Foster Coordinator
+- On-Call Contact for Fosterers (rota)
 - Additional responsibilities: [TBC]
 
 ### Rhian Vaughan
 - Food Ordering — coordinates food purchasing for foster network
 - Foster Coordinator
+- On-Call Contact for Fosterers (rota)
 
 ### Claire Burgess
 - Foster Coordinator
+- On-Call Contact for Fosterers (rota)
 - Additional responsibilities: [TBC]
 
 ### Sam Mathias
@@ -114,7 +118,9 @@ This register names the individual responsible for each key function within Forg
 - Flea & Wormer Treatments
 - Website Technical — technical maintenance and updates
 - Policy Management — maintains and updates the policy suite
+- Data Protection Lead — handles GDPR matters, subject access requests, reports breaches to ICO
 - Foster Coordinator
+- On-Call Contact for Fosterers (rota)
 
 ---
 
@@ -144,12 +150,8 @@ This register names the individual responsible for each key function within Forg
 
 | Role | Why It Must Be Named | Priority |
 |---|---|---|
-| Data Protection Lead | Required by UK GDPR; referenced in all data protection policies | High |
 | Safeguarding Lead | Required by Charity Commission and ADCH membership standards | High |
-| Lottery Licence Holder | Named on Gambling Act licence — must match register | High |
-| On-Call Contact for Fosterers | Fosterers must know who to call in an emergency | High |
-| Adoption Approvals | Every adoption decision must have a named approver | High |
-| Home Checker | ADCH Standard 60 requires a named assessor for foster homes | High |
+| Lottery Licence Holder | Named on Gambling Act licence — must verify against licence document | High |
 | Vet Liaison | ADCH Standard 51 requires a nominated vet contact | Medium |
 | Cat Intake Lead | Intake procedure requires a named decision-maker | Medium |
 | Crisis / Media Contact | Required for incident response and Social Media Policy | Medium |
@@ -165,8 +167,9 @@ This register names the individual responsible for each key function within Forg
 
 | Practice Name | Address | Phone | Primary Contact | Notes |
 |---|---|---|---|---|
-| [TBC] | | | | |
-| [TBC] | | | | |
+| Barrmore Veterinary Practice | Llanharan | TBC | TBC | Primary nominated vet |
+| Oxford Vets | Tonypandy | TBC | TBC | Additional practice |
+| Valley Vets | Taffs Well | TBC | TBC | Out-of-hours emergencies |
 
 ---
 
@@ -175,6 +178,7 @@ This register names the individual responsible for each key function within Forg
 | Version | Date | Author | Changes |
 |---|---|---|---|
 | v0.1 | 2026-04-07 | Sam Mathias | Initial draft — names and known roles populated; gaps identified |
+| v0.2 | 2026-04-08 | Sam Mathias | Assigned Data Protection Lead (Sam Mathias); On-Call Contact formalised as rota across Foster Coordinators; Adoption Approvals and Home Checker confirmed as trustee vote; Lottery Licence Holder flagged for verification |
 
 ---
 
