@@ -2,7 +2,7 @@
 
 **Organisation:** Forgotten Felines Cat Rescue
 **Charity No.:** 1181190
-**Version:** v0.1 (Draft)
+**Version:** v0.6 (Draft)
 **Date:** 2026-04-07
 **Next Review:** 2027-04-07
 **Document Owner:** Sam Mathias
@@ -36,8 +36,8 @@ This register names the individual responsible for each key function within Forg
 | Treasurer / Accounts | Bev Hibbert | Day-to-day financial management |
 | Lottery Licence Holder | [TBC] | Named individual on Gambling Act licence — must verify against licence document |
 | Data Protection Lead | Sam Mathias | Handles subject access requests; reports breaches to ICO within 72 hours |
-| Safeguarding Lead | [TBC] | Named lead for recognising and escalating safeguarding concerns |
-| Crisis / Media Contact | [TBC] | Speaks for the charity if an incident becomes public |
+| Safeguarding Lead | Becca James | Named lead for recognising and escalating safeguarding concerns |
+| Crisis / Media Contact | Becca James | Speaks for the charity if an incident becomes public |
 | Policy Management | Sam Mathias | Maintains and updates the policy suite |
 
 ### Operations — Cat Care
@@ -45,10 +45,12 @@ This register names the individual responsible for each key function within Forg
 | Role | Named Individual | Notes |
 |---|---|---|
 | Cat Intake Lead | [TBC] | Formally accepts cats into the rescue's care (relinquishments, strays) |
+| Transport Coordinator | Celia Maher | Coordinates and authorises cat transport logistics across foster, vet, and adoption journeys |
+| Senior Cats Lead (Older Cats) | Claire Burgess | Leads welfare planning and placement oversight for older cats in care |
 | Microchipping / Chip Changes | Sam Mathias | |
 | Flea & Wormer Treatments | Sam Mathias | |
 | Food Ordering | Rhian Vaughan | |
-| Vet Liaison | [TBC] | Primary contact with nominated vet practice(s) |
+| Vet Liaison | Becca James | Primary contact with nominated vet practice(s) |
 | Home Checker | Trustee vote | Virtual assessment — decision made collectively by trustees |
 
 ### Operations — Adoptions & Fostering
@@ -58,6 +60,7 @@ This register names the individual responsible for each key function within Forg
 | Adoption Approvals | Trustee vote | Decision made collectively by trustees — no single named approver |
 | On-Call Contact for Fosterers | Becca James, Julia Card, Rhian Vaughan, Claire Burgess, Sam Mathias | Rota shared across Foster Coordinators |
 | Foster Coordinator | Becca James, Julia Card, Rhian Vaughan, Claire Burgess, Sam Mathias | Shared role — coordinates foster placements and visits |
+| Long-Term Foster Lead | Claire Burgess | Oversees long-stay foster placements, welfare review cadence, and capacity planning |
 
 ### Communications & Administration
 
@@ -86,12 +89,15 @@ This register names the individual responsible for each key function within Forg
 - Fundraising Lead
 - Foster Coordinator
 - On-Call Contact for Fosterers (rota)
+- Safeguarding Lead
+- Crisis / Media Contact
+- Vet Liaison
 - Main Social Media — Facebook, Instagram, TikTok
 - Website Content — updates content on the charity website
 
 ### Celia Maher
 - Trustee
-- Responsibilities: [TBC]
+- Transport Coordinator
 
 ### Eryl Lloyd
 - Trustee
@@ -111,6 +117,8 @@ This register names the individual responsible for each key function within Forg
 ### Claire Burgess
 - Foster Coordinator
 - On-Call Contact for Fosterers (rota)
+- Long-Term Foster Lead
+- Senior Cats Lead (Older Cats)
 - Additional responsibilities: [TBC]
 
 ### Sam Mathias
@@ -132,15 +140,15 @@ This register names the individual responsible for each key function within Forg
 |---|---|---|
 | Cat welfare concern during fostering | Foster Coordinator (on duty) | Vet Liaison → Chair |
 | Adopter complaint | Foster Coordinator (on duty) | Chair (Bev Hibbert) |
-| Data breach or privacy concern | Data Protection Lead [TBC] | ICO (within 72 hours if reportable) |
-| Safeguarding concern | Safeguarding Lead [TBC] | Statutory agencies (police/social services) if required |
+| Data breach or privacy concern | Data Protection Lead (Sam Mathias) | ICO (within 72 hours if reportable) |
+| Safeguarding concern | Safeguarding Lead (Becca James) | Statutory agencies (police/social services) if required |
 | Bullying or harassment complaint | Bev Hibbert (Founder) | Charity Commission (if serious) |
 | Cat escape | Foster Coordinator (on duty) | Chair |
 | Cat death in care | Foster Coordinator (on duty) | Chair |
-| Euthanasia decision | Vet Liaison [TBC] | Chair |
+| Euthanasia decision | Vet Liaison (Becca James) | Chair |
 | Financial irregularity | Chair (Bev Hibbert) | Charity Commission |
-| Media / public incident | Crisis Contact [TBC] | Chair |
-| Out-of-hours emergency | On-Call Contact [TBC] | Chair |
+| Media / public incident | Crisis / Media Contact (Becca James) | Chair |
+| Out-of-hours emergency | On-Call Contact (Foster Coordinator rota) | Chair |
 
 ---
 
@@ -150,12 +158,8 @@ This register names the individual responsible for each key function within Forg
 
 | Role | Why It Must Be Named | Priority |
 |---|---|---|
-| Safeguarding Lead | Required by Charity Commission and ADCH membership standards | High |
 | Lottery Licence Holder | Named on Gambling Act licence — must verify against licence document | High |
-| Vet Liaison | ADCH Standard 51 requires a nominated vet contact | Medium |
 | Cat Intake Lead | Intake procedure requires a named decision-maker | Medium |
-| Crisis / Media Contact | Required for incident response and Social Media Policy | Medium |
-| Celia Maher — responsibilities | Role undefined | Medium |
 | Julia Card — additional responsibilities | Partial only | Low |
 | Claire Burgess — additional responsibilities | Partial only | Low |
 
@@ -179,6 +183,11 @@ This register names the individual responsible for each key function within Forg
 |---|---|---|---|
 | v0.1 | 2026-04-07 | Sam Mathias | Initial draft — names and known roles populated; gaps identified |
 | v0.2 | 2026-04-08 | Sam Mathias | Assigned Data Protection Lead (Sam Mathias); On-Call Contact formalised as rota across Foster Coordinators; Adoption Approvals and Home Checker confirmed as trustee vote; Lottery Licence Holder flagged for verification |
+| v0.3 | 2026-04-11 | Sam Mathias | Added Transport Coordinator and Long-Term Foster Lead roles; flagged both as requiring assignment |
+| v0.4 | 2026-04-11 | Sam Mathias | Assigned Transport Coordinator to Celia Maher and Long-Term Foster Lead to Claire Burgess; removed related assignment gaps |
+| v0.5 | 2026-04-11 | Sam Mathias | Added Senior Cats Lead (Older Cats) role and assigned it to Claire Burgess |
+| v0.6 | 2026-04-11 | Sam Mathias | Assigned Safeguarding Lead, Crisis / Media Contact, and Vet Liaison to Becca James; updated escalation references and assignment gaps |
+| v0.7 | 2026-04-11 | Sam Mathias | Updated out-of-hours escalation contact to On-Call Contact (Foster Coordinator rota) for consistency with assigned role ownership |
 
 ---
 

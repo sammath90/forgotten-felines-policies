@@ -1,10 +1,12 @@
 ---
 stepsCompleted: ['step-01-init', 'step-02-discovery', 'step-02b-vision', 'step-02c-executive-summary', 'step-03-success', 'step-04-journeys', 'step-05-domain', 'step-06-innovation', 'step-07-project-type', 'step-08-scoping', 'step-09-functional', 'step-10-nonfunctional', 'step-11-polish', 'step-12-complete', 'step-e-01-discovery', 'step-e-02-review', 'step-e-03-edit']
-lastEdited: '2026-04-06'
+lastEdited: '2026-04-11'
 editHistory:
   - date: '2026-04-06'
     changes: 'Added 12 new Phase 1 policies (Cats in Care, Cat Relinquish, Adoption, Fostering, Death of a Cat, Euthanasia, Privacy Policy, Financial, Escape of a Cat, Transportation of a Cat, Fosterer Cleaning, Volunteer). Added 2 new user journeys (Emma — relinquishment, Laura — cat death in care). Updated document counts and FRs 43–54.'
-inputDocuments: ['_bmad-output/planning-artifacts/product-brief-forgotten-felines-policies-2026-03-21.md', 'docs/existing/Forgotten_Felines_Adopter_Visit_Policy.pdf', 'docs/existing/Forgotten_Felines_Fosterer_Visit_Policy.pdf', 'docs/existing/Forgotten_Felines_Data_Retention_Policy.pdf', 'docs/existing/Forgotten_Felines_GDPR_Trustee_Policy.pdf', 'docs/existing/Forgotten_Felines_GDPR_Volunteer_Policy.pdf', 'docs/existing/Forgotten Felines Cat Rescue Bullying Policy.docx']
+  - date: '2026-04-11'
+    changes: 'Synced role assignments with Roles & Responsibilities Register: Transport Coordinator assigned to Celia Maher; Long-Term Foster Lead and Senior Cats Lead (Older Cats) assigned to Claire Burgess.'
+inputDocuments: ['_bmad-output/planning-artifacts/product-brief-forgotten-felines-policies-2026-03-21.md', 'docs/forgotten-felines/archive/source-documents/Forgotten_Felines_Adopter_Visit_Policy.pdf', 'docs/forgotten-felines/archive/source-documents/Forgotten_Felines_Fosterer_Visit_Policy.pdf', 'docs/forgotten-felines/archive/source-documents/Forgotten_Felines_Data_Retention_Policy.pdf', 'docs/forgotten-felines/archive/source-documents/Forgotten_Felines_GDPR_Trustee_Policy.pdf', 'docs/forgotten-felines/archive/source-documents/Forgotten_Felines_GDPR_Volunteer_Policy.pdf', 'docs/forgotten-felines/archive/source-documents/Forgotten Felines Cat Rescue Bullying Policy.docx']
 workflowType: 'prd'
 classification:
   projectType: 'Documentation & Compliance Suite'
@@ -44,6 +46,12 @@ Every document follows a two-tier structure: a full governance policy and a plai
 - **Complexity:** Medium-High
 - **Project Context:** Brownfield — 6 existing policies to revise, 15 new documents to create
 - **Audience:** Internal (trustees, fosterers) and external (adopters, public)
+
+### Role Assignment Update (2026-04-11)
+
+- Transport Coordinator: Celia Maher
+- Long-Term Foster Lead: Claire Burgess
+- Senior Cats Lead (Older Cats): Claire Burgess
 
 ## Success Criteria
 

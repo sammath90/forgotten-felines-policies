@@ -4,12 +4,12 @@ validationDate: '2026-04-06'
 inputDocuments:
   - '_bmad-output/planning-artifacts/prd.md'
   - '_bmad-output/planning-artifacts/product-brief-forgotten-felines-policies-2026-03-21.md'
-  - 'docs/existing/Forgotten_Felines_Adopter_Visit_Policy.pdf (referenced, not loaded)'
-  - 'docs/existing/Forgotten_Felines_Fosterer_Visit_Policy.pdf (referenced, not loaded)'
-  - 'docs/existing/Forgotten_Felines_Data_Retention_Policy.pdf (referenced, not loaded)'
-  - 'docs/existing/Forgotten_Felines_GDPR_Trustee_Policy.pdf (referenced, not loaded)'
-  - 'docs/existing/Forgotten_Felines_GDPR_Volunteer_Policy.pdf (referenced, not loaded)'
-  - 'docs/existing/Forgotten Felines Cat Rescue Bullying Policy.docx (referenced, not loaded)'
+  - 'docs/forgotten-felines/archive/source-documents/Forgotten_Felines_Adopter_Visit_Policy.pdf (referenced, not loaded)'
+  - 'docs/forgotten-felines/archive/source-documents/Forgotten_Felines_Fosterer_Visit_Policy.pdf (referenced, not loaded)'
+  - 'docs/forgotten-felines/archive/source-documents/Forgotten_Felines_Data_Retention_Policy.pdf (referenced, not loaded)'
+  - 'docs/forgotten-felines/archive/source-documents/Forgotten_Felines_GDPR_Trustee_Policy.pdf (referenced, not loaded)'
+  - 'docs/forgotten-felines/archive/source-documents/Forgotten_Felines_GDPR_Volunteer_Policy.pdf (referenced, not loaded)'
+  - 'docs/forgotten-felines/archive/source-documents/Forgotten Felines Cat Rescue Bullying Policy.docx (referenced, not loaded)'
 validationStepsCompleted: ['step-v-01-discovery', 'step-v-02-format-detection', 'step-v-03-density-validation', 'step-v-04-brief-coverage-validation', 'step-v-05-measurability-validation', 'step-v-06-traceability-validation', 'step-v-07-implementation-leakage-validation', 'step-v-08-domain-compliance-validation', 'step-v-09-project-type-validation', 'step-v-10-smart-validation', 'step-v-11-holistic-quality-validation', 'step-v-12-completeness-validation', 'step-v-13-report-complete']
 validationStatus: COMPLETE
 holisticQualityRating: '4/5 - Good'
