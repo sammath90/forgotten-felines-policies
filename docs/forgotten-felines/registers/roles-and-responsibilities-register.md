@@ -2,7 +2,7 @@
 
 **Organisation:** Forgotten Felines Cat Rescue
 **Charity No.:** 1181190
-**Version:** v0.6 (Draft)
+**Version:** v0.7 (Draft)
 **Date:** 2026-04-07
 **Next Review:** 2027-04-07
 **Document Owner:** Sam Mathias
@@ -107,7 +107,6 @@ This register names the individual responsible for each key function within Forg
 ### Julia Card
 - Foster Coordinator
 - On-Call Contact for Fosterers (rota)
-- Additional responsibilities: [TBC]
 
 ### Rhian Vaughan
 - Food Ordering — coordinates food purchasing for foster network
@@ -160,7 +159,6 @@ This register names the individual responsible for each key function within Forg
 |---|---|---|
 | Lottery Licence Holder | Named on Gambling Act licence — must verify against licence document | High |
 | Cat Intake Lead | Intake procedure requires a named decision-maker | Medium |
-| Julia Card — additional responsibilities | Partial only | Low |
 | Claire Burgess — additional responsibilities | Partial only | Low |
 
 ---
@@ -188,6 +186,7 @@ This register names the individual responsible for each key function within Forg
 | v0.5 | 2026-04-11 | Sam Mathias | Added Senior Cats Lead (Older Cats) role and assigned it to Claire Burgess |
 | v0.6 | 2026-04-11 | Sam Mathias | Assigned Safeguarding Lead, Crisis / Media Contact, and Vet Liaison to Becca James; updated escalation references and assignment gaps |
 | v0.7 | 2026-04-11 | Sam Mathias | Updated out-of-hours escalation contact to On-Call Contact (Foster Coordinator rota) for consistency with assigned role ownership |
+| v0.8 | 2026-04-12 | Sam Mathias | Removed Julia Card partial responsibilities gap; her known roles (Foster Coordinator, On-Call Contact) stand as complete |
 
 ---
 
