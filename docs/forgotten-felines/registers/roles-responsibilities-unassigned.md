@@ -143,6 +143,22 @@
 - Escalates to the Chair or Vet Liaison where required
 - *Rota-based if shared across Foster Coordinators*
 
+### Senior Cats Lead (Older Cats)
+- Acts as the main point of contact and named lead for the welfare and placement of older cats in care
+- Oversees welfare planning for senior cats, including any additional health or comfort needs
+- Supports Foster Coordinators in matching older cats to appropriate foster homes
+- Keeps an eye on senior cats who have been in care for a longer period and flags concerns to the group
+- Does not need to have specialist knowledge on every situation — can and should draw on other trustees, Foster Coordinators, or the Vet Liaison when questions arise; the role is about being the named person who makes sure nothing falls through the cracks, not about having all the answers
+- *One named individual should hold this role to provide a clear point of accountability for older cats in care*
+
+### Long-Term Foster Lead
+- Acts as the main point of contact and named lead for cats who have been in foster care for an extended period
+- Ensures that long-stay cats receive regular welfare check-ins and that their placement remains suitable
+- Keeps track of which cats have been in care longest and raises awareness within the trustee group
+- Works with Foster Coordinators to consider whether alternative placements, increased promotion, or other steps might help a long-stay cat move on to adoption
+- Does not need to have all the answers — can and should involve other trustees, Foster Coordinators, or the Vet Liaison as needed; the role is to be the named person who keeps long-stay cats on the radar and ensures someone is actively thinking about them
+- *One named individual should hold this role to ensure long-stay cats receive consistent oversight rather than being overlooked*
+
 ### Behavioural Support Contact
 - Provides or coordinates access to a suitably trained individual for cats exhibiting unwanted behaviour
 - Ensures all training and behaviour modification uses positive reinforcement only
