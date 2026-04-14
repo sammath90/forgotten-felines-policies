@@ -2,6 +2,12 @@
 
 **Forgotten Felines Cat Rescue — Charity No. 1181190**
 
+**Version:** 2.0
+**Last Reviewed:** 2026-04-14
+**Next Review Due:** 2027-04-14
+**Approved by:** _[Founder/Trustee — to be signed]_
+**Approval Date:** _[to be signed]_
+
 ---
 
 ## About Us
@@ -44,6 +50,35 @@ Our Founder, Bev Hibbert, will offer support to you, along with the rest of the 
 
 ---
 
+## Training (ADCH Standard 48)
+
+Every volunteer who cares for a cat — and every fosterer without exception — must complete the Forgotten Felines **Fosterer Training Programme** before they take a placement. The programme covers the eight topics required by ADCH Minimum Welfare Operational Standard 48:
+
+1. Animal welfare, including recognising poor welfare
+2. Animal handling
+3. Animal behaviour
+4. Cleanliness and hygiene
+5. Feeding and food preparation
+6. Disease control
+7. Recognition of, and first aid action for, sick animals
+8. Updates on disease, inherited disease, legislation, and behaviour
+
+Training is delivered by the Fostering Coordinator through an induction session, the policy handbook, and a practical walk-through of the home using the Foster Home Assessment Checklist. Sign-off against each topic is recorded in the **Fosterer Training Record**, and every fosterer completes a refresher review at least once every 12 months.
+
+A fosterer may not accept a new placement if their training record is more than 12 months old without a refresher. Volunteers in other roles (home checkers, fundraisers, transporters, trappers, vet-visit drivers) receive role-appropriate induction and guidance from the Fostering Coordinator or relevant lead.
+
+See the [Fosterer Training Programme](../../templates/fosterer-training-programme.md) and the Fostering Policy for the full pathway.
+
+---
+
+## Behavioural Support (ADCH Standard 55)
+
+Forgotten Felines can access a suitably trained and experienced individual to evaluate and recommend positive behavioural modification programmes for cats that exhibit unwanted behaviour, in line with ADCH Standard 55. The current **Behavioural Support Contact** is named in the [Roles and Responsibilities Register](../../registers/roles-and-responsibilities-register.md) and can be accessed via the Fostering Coordinator.
+
+All training and behaviour modification carried out by Forgotten Felines is **positive reinforcement only** — we do not use coercive or punitive techniques or equipment, and slip leads are not used as training aids (Standard 56). If you are unsure how to handle a behavioural issue with a foster cat, contact the Fostering Coordinator before attempting any intervention.
+
+---
+
 ## Expenses
 
 We value our volunteers and want to ensure that there are no barriers to volunteer involvement. All costs relating to the care of the cats/kittens will be met by Forgotten Felines. All reasonable out-of-pocket expenses will be met — such as petrol costs for home checks, trapping, vet visits, etc. — with original receipts required.
@@ -82,7 +117,27 @@ Forgotten Felines is committed to embracing diversity and promoting equality and
 
 ---
 
-*This policy will be reviewed every 12 months.*
+## Related Documents
+
+- Fostering Policy
+- Fosterer Training Programme and Fosterer Training Record
+- Foster Home Assessment Checklist
+- Cat Intake and Medical Care Policy
+- Cat Fosterer Cleaning Policy
+- Cat Transportation Policy
+- Forgotten Felines Emergency Plan
+- Social Media Policy
+- Forgotten Felines Adopter Visit Policy
+- Forgotten Felines Fosterer Visit Policy
+- Roles and Responsibilities Register
+- GDPR Volunteer Policy
+- Privacy Notice
+- Bullying Policy
+- Harassment Policy
+
+---
+
+*This policy is reviewed at least annually, or sooner if ADCH standards, legislation, or operational practice changes.*
 
 Signed __________________________________________________ Date ___________________________
 

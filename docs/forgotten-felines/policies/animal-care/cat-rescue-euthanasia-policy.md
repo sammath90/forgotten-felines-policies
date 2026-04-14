@@ -2,6 +2,12 @@
 
 **Forgotten Felines Cat Rescue — Charity No. 1181190**
 
+**Version:** 2.0
+**Last Reviewed:** 2026-04-14
+**Next Review Due:** 2027-04-14
+**Approved by:** _[Founder/Trustee — to be signed]_
+**Approval Date:** _[to be signed]_
+
 ---
 
 ## 1. Purpose
@@ -48,13 +54,22 @@ Euthanasia is defined as the humane ending of an animal's life by a qualified pr
 
 ### 5.2 Quality of Life
 
-Forgotten Felines bases all euthanasia decisions on quality of life. A day too early is better than a day too late.
+Forgotten Felines bases all euthanasia decisions on quality of life. In line with ADCH Standard 68(c), euthanasia may be considered where quality of life is **compromised to an unacceptable degree, with no realistic prospect of improvement**. A day too early is better than a day too late.
 
-- Persistent, unmanageable pain
+Objective factors that support a quality-of-life judgement include:
+
+- Persistent, unmanageable pain (confirmed by a vet)
 - Inability to eat, drink, or maintain hydration
 - Loss of mobility or inability to perform basic functions
-- Ongoing distress, fear, or withdrawal
-- More "bad days" than "good days"
+- Ongoing distress, fear, or withdrawal despite environmental and clinical intervention
+- Veterinary prognosis of progressive decline with no realistic treatment path
+- More "bad days" than "good days" as observed and recorded by the fosterer and confirmed by the vet
+
+The subjective "bad days / good days" test is never the sole criterion — it is always combined with veterinary input and the objective factors above.
+
+### 5.3 Feral Cats (exception to rehabilitation requirement)
+
+Standard 67 applies its rehabilitation-first requirement "in most cases, except for feral cats." For adult feral cats, exploration of rehabilitation is **not** required before a euthanasia decision where the veterinary assessment indicates that release is not possible and the cat's welfare cannot be safeguarded through confinement within the Standard 50 48-hour limit. A nominated vet must still carry out the assessment and approve the decision.
 
 ### 5.3 Behavioural Grounds
 
@@ -87,16 +102,28 @@ Euthanasia will not be carried out for:
 
 ### 7.1 Veterinary Involvement
 
-A licensed veterinary surgeon must assess the cat prior to euthanasia (except in emergency situations where immediate action is required to prevent suffering).
+A licensed veterinary surgeon must carry out a **full and thorough examination** of the cat prior to euthanasia, in line with ADCH Standard 67. The only exceptions are:
 
-### 7.2 Internal Review
+- An **emergency** where immediate action is required to prevent suffering and a full examination would cause further harm or delay relief (Section 8); and
+- A **feral cat** assessed in line with Section 5.3, where rehabilitation exploration is not required but a veterinary assessment still takes place.
+
+### 7.2 Internal Review and Consultation
 
 Non-emergency decisions must be reviewed by at least:
 
 - A Trustee, **AND**
 - The attending veterinarian
 
-Complex or borderline cases should seek a second veterinary opinion.
+Standard 67 also requires "a consultation with the individual or individuals who have full knowledge of the animal." For Forgotten Felines this means:
+
+- The **fosterer** who has been caring for the cat is consulted wherever practical. Their observations of behaviour, appetite, quality of life, and response to treatment are recorded and inform the decision.
+- Where the cat has had multiple foster homes, the Fostering Coordinator ensures that relevant observations from previous placements are also taken into account.
+
+Complex or borderline cases should seek a second veterinary opinion. A second opinion is strongly recommended for:
+
+- Any euthanasia decision made on behavioural grounds (Section 5.3 behavioural test)
+- Any quality-of-life decision where veterinary prognosis is uncertain
+- Any case where the fosterer and the attending vet disagree on the appropriate course
 
 ### 7.3 Documentation
 
@@ -123,7 +150,8 @@ In cases of severe trauma or acute suffering:
 
 Euthanasia must:
 
-- Be carried out by a qualified veterinary professional
+- Be carried out **by or under the direction of a qualified veterinary surgeon** using an approved humane method, in line with ADCH Standard 69
+- Use **intravenous injection** as the preferred method, in line with Standard 69. Any use of an alternative method must be recorded with the veterinary reason for the choice
 - Follow Royal College of Veterinary Surgeons (RCVS) guidelines
 - Include appropriate sedation or anaesthesia to minimise stress
 - Take place in a calm, quiet environment wherever possible
@@ -166,7 +194,19 @@ This policy aligns with:
 
 ---
 
-## 14. Policy Approval
+## 14. Related Documents
+
+- Fostering Policy
+- Cat Intake and Medical Care Policy
+- Death of a Cat Policy
+- Cat Isolation on Arrival Policy
+- Named Veterinary Practices Register
+- Roles and Responsibilities Register
+- Forgotten Felines Emergency Plan
+
+---
+
+## 15. Policy Approval
 
 Approved by: __________________________
 

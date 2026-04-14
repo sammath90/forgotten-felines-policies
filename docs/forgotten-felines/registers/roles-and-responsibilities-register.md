@@ -2,9 +2,9 @@
 
 **Organisation:** Forgotten Felines Cat Rescue
 **Charity No.:** 1181190
-**Version:** v0.7 (Draft)
-**Date:** 2026-04-07
-**Next Review:** 2027-04-07
+**Version:** v0.9 (Draft)
+**Date:** 2026-04-14
+**Next Review:** 2027-04-14
 **Document Owner:** Sam Mathias
 
 ---
@@ -44,14 +44,16 @@ This register names the individual responsible for each key function within Forg
 
 | Role | Named Individual | Notes |
 |---|---|---|
-| Cat Intake Lead | [TBC] | Formally accepts cats into the rescue's care (relinquishments, strays) |
+| Cat Intake Lead | [TBC] | Formally accepts cats into the rescue's care (relinquishments, strays). Required by ADCH Standards 1–4 |
+| Isolation Coordinator | Becca James (Vet Liaison) | Owns transfers to the designated isolation practice under ADCH Standard 13 and the Cat Isolation on Arrival Policy § 13 |
+| Behavioural Support Contact | [TBC] | Named trained/experienced behaviourist (internal or external) per ADCH Standard 55. Must be contactable for welfare consults on cats presenting unwanted behaviour |
 | Transport Coordinator | Celia Maher | Coordinates and authorises cat transport logistics across foster, vet, and adoption journeys |
 | Senior Cats Lead (Older Cats) | Claire Burgess | Leads welfare planning and placement oversight for older cats in care |
 | Microchipping / Chip Changes | Sam Mathias | |
 | Flea & Wormer Treatments | Sam Mathias | |
 | Food Ordering | Rhian Vaughan | |
-| Vet Liaison | Becca James | Primary contact with nominated vet practice(s) |
-| Home Checker | Trustee vote | Virtual assessment — decision made collectively by trustees |
+| Vet Liaison | Becca James | Primary contact with nominated vet practice(s); maintains the Named Veterinary Practices Register with the Fostering Coordinator |
+| Home Checker | Trustee vote | Virtual assessment — decision made collectively by trustees; operationalised through the Foster Home Assessment Checklist and Foster Home Register |
 
 ### Operations — Adoptions & Fostering
 
@@ -158,20 +160,27 @@ This register names the individual responsible for each key function within Forg
 | Role | Why It Must Be Named | Priority |
 |---|---|---|
 | Lottery Licence Holder | Named on Gambling Act licence — must verify against licence document | High |
-| Cat Intake Lead | Intake procedure requires a named decision-maker | Medium |
+| Cat Intake Lead | ADCH Standards 1–4 intake procedure requires a named decision-maker; Cat Relinquishment Policy § 5 references this role | High |
+| Behavioural Support Contact | Required by ADCH Standard 55 — a named trained/experienced behaviourist (internal or external) that Forgotten Felines can consult on cats presenting unwanted behaviour. Referenced in the Fosterer Training Programme and the Fostering Policy | High |
 | Claire Burgess — additional responsibilities | Partial only | Low |
 
 ---
 
 ## Section 5: Nominated Vet Practice(s)
 
-*Required by ADCH Standard 51. To be completed.*
+*Required by ADCH Standards 51 and 13. The authoritative record is the [Named Veterinary Practices Register](named-veterinary-practices-register.md), which holds the full services matrix, signed arrangement letters, and designated isolation practice block. The summary below is a quick-reference view and must be kept in sync with the full register.*
 
-| Practice Name | Address | Phone | Primary Contact | Notes |
-|---|---|---|---|---|
-| Barrmore Veterinary Practice | Llanharan | TBC | TBC | Primary nominated vet |
-| Oxford Vets | Tonypandy | TBC | TBC | Additional practice |
-| Valley Vets | Taffs Well | TBC | TBC | Out-of-hours emergencies |
+| Practice Name | Address | Phone | Primary Contact | Arrangement letter on file | Notes |
+|---|---|---|---|---|---|
+| Barrmore Veterinary Practice | Llanharan | TBC | TBC | [TBC] | Primary nominated vet |
+| Oxford Vets | Tonypandy | TBC | TBC | [TBC] | Additional practice |
+| Valley Vets | Taffs Well | TBC | TBC | [TBC] | Out-of-hours emergencies |
+
+**Outstanding actions:**
+
+- Populate phone, primary contact, and arrangement-letter status in the full Named Veterinary Practices Register
+- Send the [Vet Arrangement Letter Template](../templates/vet-arrangement-letter-template.md) to each practice and obtain a signed return
+- Designate **one** practice as the formal Standard 13 isolation provider in the full register
 
 ---
 
@@ -187,6 +196,7 @@ This register names the individual responsible for each key function within Forg
 | v0.6 | 2026-04-11 | Sam Mathias | Assigned Safeguarding Lead, Crisis / Media Contact, and Vet Liaison to Becca James; updated escalation references and assignment gaps |
 | v0.7 | 2026-04-11 | Sam Mathias | Updated out-of-hours escalation contact to On-Call Contact (Foster Coordinator rota) for consistency with assigned role ownership |
 | v0.8 | 2026-04-12 | Sam Mathias | Removed Julia Card partial responsibilities gap; her known roles (Foster Coordinator, On-Call Contact) stand as complete |
+| v0.9 | 2026-04-14 | Sam Mathias | Added Isolation Coordinator (assigned to Becca James as Vet Liaison) and Behavioural Support Contact (TBC) roles per ADCH Standards 13 and 55. Cross-referenced the full Named Veterinary Practices Register and the Vet Arrangement Letter Template in Section 5 |
 
 ---
 

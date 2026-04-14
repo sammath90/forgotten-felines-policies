@@ -2,9 +2,15 @@
 
 **Forgotten Felines Cat Rescue — Charity No. 1181190**
 
+**Version:** 2.0
+**Last Reviewed:** 2026-04-14
+**Next Review Due:** 2027-04-14
+**Approved by:** _[Founder/Trustee — to be signed]_
+**Approval Date:** _[to be signed]_
+
 *A guide for volunteers on using social media to promote the work of Forgotten Felines Cat Rescue and in a personal capacity.*
 
-*Date of last review: 31/05/2020. This policy will be reviewed on an ongoing basis, at least once a year.*
+> **Review note (2026-04-14):** This policy was last substantively reviewed in 2020. This version refreshes the review date, adds a Cat Welfare on Social Media section to meet ADCH Standard 79, and adds a Related Documents section. The body of the policy (internet access, official channels, personal accounts, further guidelines, public interest disclosure) remains substantively unchanged pending further consultation with Trustees.
 
 ---
 
@@ -171,10 +177,41 @@ Volunteers who breach this policy may be asked to remove offending content and m
 
 ---
 
+## Cat Welfare on Social Media (Standard 79)
+
+Social media is a form of public viewing of our cats. ADCH Standard 79 requires that suitable measures are taken for the safety and welfare of animals when the public can view them. For Forgotten Felines this means:
+
+- Do not post images or video of a cat that is showing signs of distress, fear, pain, or acute illness, except where the image serves a clear welfare or fundraising purpose and has been approved by a Trustee.
+- Do not post content that mocks, mimics, or trivialises a cat's distress (for example "angry cat" memes using a genuinely frightened foster cat).
+- Moderate comments on official Forgotten Felines channels. Remove comments that are disrespectful to a cat, mock an animal's condition, or contain misinformation about welfare. Escalate repeat offenders to the Trustees.
+- Obtain consent from the adopter before posting "happy adoption" content. Consent should specify whether the cat's name, image, adopter name, or both can be shared, and where (official channels, personal accounts, both).
+- For foster cat promotion posted by fosterers on their personal accounts, the post must be referenced to Forgotten Felines Cat Rescue and must not reveal the foster home's address or any detail that could compromise the fosterer's or the cat's safety.
+- Never post content that could identify the location of a foster home in a way that invites unapproved visits.
+
+Any concern about a post's impact on cat welfare should be escalated to the Trustees immediately.
+
+---
+
 ## Public Interest Disclosure
 
 Volunteers who have genuine concerns about wrongdoing within Forgotten Felines are encouraged to raise these with the Trustees. Volunteers will not be penalised for making disclosures in good faith in accordance with whistleblowing legislation.
 
 ---
 
-*This policy will be reviewed annually.*
+## Related Documents
+
+- Forgotten Felines Adopter Visit Policy
+- Forgotten Felines Fosterer Visit Policy
+- Adoption Policy
+- Volunteer Policy
+- Privacy Notice
+- Record of Processing Activities
+- GDPR Trustee Policy
+- GDPR Volunteer Policy
+- Data Retention Policy
+- Harassment Policy
+- Bullying Policy
+
+---
+
+*This policy is reviewed at least annually, or sooner if ADCH standards, legislation, or operational practice changes.*

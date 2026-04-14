@@ -2,8 +2,10 @@
 
 **Charity No.:** 1181190
 **Prepared:** 2026-04-08
-**Updated:** 2026-04-11
+**Updated:** 2026-04-14 (post second policy sweep)
 **Standards version:** ADCH Minimum Welfare & Operational Standards, August 2024
+
+> **Working tracker** — ticks reflect today's state of the policy suite. For the full standard-by-standard map see [adch-compliance-analysis-forgotten-felines.md](../assessments/adch-compliance-analysis-forgotten-felines.md).
 
 ---
 
@@ -16,50 +18,83 @@
 - [ ] Assign a **Lottery Licence Holder** — must match the named individual on the Gambling Act licence
 - [x] Assign an **On-Call Contact for Fosterers** — assigned as a rota across Foster Coordinators
 - [x] Define **Adoption Approvals** ownership — decision-making assigned to trustee vote
-- [x] Define **Home Checker / Foster Home Assessor** ownership — assigned to trustee vote
-- [x] Assign a **Vet Liaison** — assigned to Becca James (also supports isolation arrangement ownership)
-- [ ] Assign a **Cat Intake Lead** — needed for the intake procedure (Standards 1–4)
+- [x] Define **Home Checker / Foster Home Assessor** ownership — assigned to trustee vote (operationalised via the [Foster Home Assessment Checklist](../registers/foster-home-assessment-checklist.md))
+- [x] Assign a **Vet Liaison** — assigned to Becca James
+- [ ] Assign a **Cat Intake Lead** — needed for ADCH Standards 1–4 intake procedure and Cat Relinquishment Policy § 5
 - [x] Assign a **Transport Coordinator** — assigned to Celia Maher
 - [x] Assign a **Long-Term Foster Lead** — assigned to Claire Burgess
 - [x] Assign a **Senior Cats Lead (Older Cats)** — assigned to Claire Burgess
-- [ ] Assign a **Behavioural Support Contact** — can be an external behaviourist; just needs to be documented (Standard 55)
+- [ ] Assign a **Behavioural Support Contact** — internal or external behaviourist (Standard 55); row exists in the Roles Register but a real name is needed
 - [x] Assign a **Crisis / Media Contact** — assigned to Becca James
-- [ ] Assign an **Isolation Coordinator** — can be the Vet Liaison; needs a named person (Standard 13)
-- [ ] Define responsibilities for **Julia Card** — currently partial only
+- [x] Assign an **Isolation Coordinator** — assigned to Becca James (Vet Liaison) in Roles Register v0.9 (Standard 13)
+- [x] Define responsibilities for **Julia Card** — resolved in Roles Register v0.8 (Foster Coordinator + On-Call Contact rota)
 
 ---
 
 ## Phase 2: Write Required Policies
 
-> Required by ADCH Standard 78 and others.
+> Required by ADCH Standard 78 and others. All entries below reflect the second policy sweep of 2026-04-14.
 
-- [ ] **Cats in Care Policy** — consolidate existing draft coverage from `docs/forgotten-felines/policies/animal-care/cat-intake-policy.md`, `docs/forgotten-felines/policies/animal-care/cat-isolation-arrival-policy.md`, and `docs/forgotten-felines/policies/animal-care/fostering-policy.md` into one ADCH-aligned policy
-- [x] **Fosterer Cleaning Policy** — draft exists: `docs/forgotten-felines/policies/animal-care/cat-fosterer-cleaning-policy.md`
-- [x] **Transportation of a Cat Policy** — draft exists: `docs/forgotten-felines/policies/animal-care/cat-transportation-policy.md`
-- [x] **Escape of a Cat Policy** — draft exists: `docs/forgotten-felines/policies/animal-care/escape-of-a-cat-policy.md`
-- [x] **Death of a Cat Policy** — draft exists: `docs/forgotten-felines/policies/animal-care/death-of-a-cat-policy.md`
-- [x] **Euthanasia Policy** *(critical)* — draft exists: `docs/forgotten-felines/policies/animal-care/cat-rescue-euthanasia-policy.md`
-- [x] **Fostering Policy** — draft exists: `docs/forgotten-felines/policies/animal-care/fostering-policy.md`
-- [x] **Adoption Policy** — draft exists: `docs/forgotten-felines/policies/animal-care/adoption-policy.md`
-- [x] **Cat Relinquishment Policy** — supporting draft exists: `docs/forgotten-felines/policies/animal-care/cat-relinquishment-policy.md`
-- [x] **Cat Isolation on Arrival Policy** — supporting draft exists: `docs/forgotten-felines/policies/animal-care/cat-isolation-arrival-policy.md`
+### Animal-care policies (Standard 78 written procedures)
+
+- [x] **Fostering Policy v2.0** — `docs/forgotten-felines/policies/animal-care/fostering-policy.md` (Stds 47, 48, 59, 60, 62)
+- [x] **Cat Intake and Medical Care Policy v2.0** — `cat-intake-policy.md` (Stds 1–4, 51, 76)
+- [x] **Cat Isolation on Arrival Policy v2.0** — `cat-isolation-arrival-policy.md` (Stds 3, 12, 13, 49, 50)
+- [x] **Cat Relinquishment Policy v2.0** — `cat-relinquishment-policy.md` (Stds 1–2, 49, 50)
+- [x] **Cat Fosterer Cleaning Policy v2.0** — `cat-fosterer-cleaning-policy.md` (Stds 15, 18, 20, 21, 22–24)
+- [x] **Cat Transportation Policy v2.0** — `cat-transportation-policy.md` (Std 54)
+- [x] **Adoption Policy v2.0** — `adoption-policy.md` (Stds 57, 65–66, 71–75)
+- [x] **Cat Rescue Euthanasia Policy v2.0** — `cat-rescue-euthanasia-policy.md` (Stds 67–70)
+- [x] **Death of a Cat Policy v2.0** — `death-of-a-cat-policy.md` (Std 78)
+- [x] **Escape of a Cat Policy v2.0** — `escape-of-a-cat-policy.md` (Std 78)
+- [x] **Forgotten Felines Emergency Plan v1.0** — `forgotten-felines-emergency-plan.md` (Stds 46, 78)
+
+### Visits and volunteers
+
+- [x] **Forgotten Felines Adopter Visit Policy v2.0** — `forgotten-felines-adopter-visit-policy.md` (Stds 72, 79)
+- [x] **Forgotten Felines Fosterer Visit Policy v2.0** — `forgotten-felines-fosterer-visit-policy.md` (Stds 72, 79)
+- [x] **Volunteer Policy v2.0** — `volunteer-policy.md` (Stds 48, 55)
+- [x] **Social Media Policy v2.0** — `social-media-policy.md` (Std 79)
+
+### Still outstanding
+
+- [ ] **Safeguarding Policy** — statutory escalation steps (required by Charity Commission and Standard 78)
+- [ ] **Incident Reporting & Complaints Policy** — includes Charity Commission Serious Incident Reporting
+- [ ] **Fostering Agreement template** — signed by every fosterer before first placement (referenced in Fostering Policy § 2)
+
+> The previously stale "Cats in Care Policy consolidation" item has been removed. The v2.0 animal-care suite now covers the consolidation intent through cross-referenced standalone policies, which is what ADCH assessors expect.
 
 ---
 
 ## Phase 3: Build Records Systems
 
-- [ ] **Per-cat record log** — one record per cat: description, intake date, vet history, assessments, adopter details. A Google Sheet is sufficient. (Standard 76)
-- [ ] **Fosterer training records** — log of who was trained, on which of the 8 mandatory topics, and when. Must be per-individual. (Standard 48)
-- [ ] **Foster home assessment records** — one record per approved foster home, confirming it was visited and meets Annex B (Standard 60)
+Standard 48, 60, and 76 require live records. The **schemas and templates** now exist. The **live systems** must be populated.
+
+### Schemas in place (done)
+
+- [x] **Per-Cat Record Specification v1.0** — `docs/forgotten-felines/registers/per-cat-record-specification.md` (Standard 76)
+- [x] **Foster Home Register schema v1.0** — `docs/forgotten-felines/registers/foster-home-register.md` (Standard 60)
+- [x] **Foster Home Assessment Checklist v1.0** — `docs/forgotten-felines/registers/foster-home-assessment-checklist.md` (Standard 60)
+- [x] **Named Veterinary Practices Register v1.0** — `docs/forgotten-felines/registers/named-veterinary-practices-register.md` (Standards 13, 51)
+- [x] **Fosterer Training Programme v1.0** — `docs/forgotten-felines/templates/fosterer-training-programme.md` (Standard 48)
+- [x] **Vet Arrangement Letter Template v1.0** — `docs/forgotten-felines/templates/vet-arrangement-letter-template.md` (Standards 13, 51)
+
+### Live systems to be built or populated
+
+- [ ] **Per-cat record system (live)** — Google Sheet or equivalent, one row per cat, built against the Per-Cat Record Specification (Standard 76)
+- [ ] **Fosterer Training Record (live)** — one row per active fosterer, training status per topic (Standard 48)
+- [ ] **Foster Home Register (live)** — one row per approved foster home, each with a completed Foster Home Assessment Checklist on file (Standard 60)
+- [ ] **Run the Foster Home Assessment Checklist** against every active foster home (Standard 60)
 
 ---
 
 ## Phase 4: Document Key Arrangements
 
-- [x] **Document nominated vet practice(s)** — listed in Roles & Responsibilities Register (Section 5)
-- [ ] **Complete nominated vet details** — fill phone numbers and primary contact names in Roles & Responsibilities Register (Section 5)
-- [ ] **Document isolation arrangement with a vet practice** — written confirmation (email is fine) that your vet can take in an infectious cat if needed (Standard 13)
-- [ ] **Document behavioural support contact** — name the external behaviourist or resource used (Standard 55)
+- [x] **Draft nominated vet register structure** — `named-veterinary-practices-register.md` created
+- [x] **Draft the Vet Arrangement Letter Template** — ready to send to each nominated practice
+- [ ] **Populate the Named Veterinary Practices Register** — phone numbers, primary contacts, services, opening hours (Standards 13, 51)
+- [ ] **Obtain signed Standard 13 isolation arrangement letter** from at least one nominated practice (Section 3 of the template)
+- [ ] **Document behavioural support contact** — name the internal or external behaviourist (Standard 55); register row exists in Roles Register
 
 ---
 
@@ -67,22 +102,16 @@
 
 > Required by ADCH Standard 48. Must cover all 8 mandatory topics with individual records kept.
 
-- [ ] Write a **fosterer training programme** covering:
-  - Animal welfare and recognising poor welfare
-  - Animal handling
-  - Animal behaviour
-  - Cleanliness and hygiene
-  - Feeding and food preparation
-  - Disease control
-  - Recognising and responding to sick animals (first aid action)
-  - New legislation, disease information, and inherited conditions
-- [ ] Set a **schedule for annual review** of training content (Standard 48)
+- [x] **Write the Fosterer Training Programme** covering all 8 mandatory topics — done 2026-04-14
+- [x] **Set a schedule for annual review of training content** — built into the programme document and the Fostering Policy
+- [ ] **Deliver induction training to every active fosterer** and populate the Fosterer Training Record
+- [ ] **Run the first annual review** of the programme
 
 ---
 
 ## Phase 6: Apply to ADCH
 
-- [ ] **Complete the ADCH self-assessment** against all applicable standards (SOP1, Step 3)
+- [ ] **Complete the ADCH self-assessment** using the full standards map in the [ADCH Compliance Analysis](../assessments/adch-compliance-analysis-forgotten-felines.md) (SOP1, Step 3)
 - [ ] **Gather application materials:**
   - 2 references (existing ADCH members or professionals — your vet qualifies)
   - Organisational constitution
@@ -102,22 +131,27 @@
 
 - [ ] **Annual self-assessment** against ADCH standards (SOP2)
 - [ ] **External assessment every 3 years** (SOP3)
-- [ ] **Annual review of the fosterer training policy** (Standard 48)
+- [ ] **Annual review of the fosterer training programme** (Standard 48)
 - [ ] **Annual review of the emergency plan** (Standard 46)
+- [ ] **Annual review of the Named Veterinary Practices Register** (Standards 13, 51)
+- [ ] **Annual review of the Foster Home Register** — and triggered re-assessment on material changes (Standard 60)
 - [ ] **Keep the Roles & Responsibilities Register current** — update whenever a trustee joins, leaves, or changes role
 
 ---
 
-## Summary — Critical Path
+## Summary — Critical Path (2026-04-14)
 
-The three biggest blockers before anything else can be finalised:
+After today's second policy sweep, the three biggest blockers before ADCH assessment are:
 
-1. **Assign the remaining unassigned roles** — escalation paths in policies still lead nowhere where named individuals are missing
-2. **Consolidate and align draft policies to ADCH standards** — especially producing a single Cats in Care policy and closing standard-specific gaps
-3. **Set up the fosterer training records and per-cat record log** — required by Standards 48 and 76
+1. **Name the outstanding roles** — Lottery Licence Holder, Cat Intake Lead, Behavioural Support Contact
+2. **Populate the operational registers** — Named Veterinary Practices Register (with signed arrangement letters), Foster Home Register, per-cat record system, Fosterer Training Record
+3. **Draft the three remaining policies** — Safeguarding Policy, Incident Reporting & Complaints Policy, Fostering Agreement template
+
+Most of the previously "critical" items are now complete: every v2.0 animal-care and visits-and-volunteers policy is drafted, the Emergency Plan exists, the registers and training programme exist as schemas, and the arrangement-letter template is ready to send.
 
 ---
 
 *Standards reference: ADCH Minimum Welfare & Operational Standards, August 2024*
-*Source analysis: [docs/forgotten-felines/assessments/adch-compliance-analysis-forgotten-felines.md](../docs/forgotten-felines/assessments/adch-compliance-analysis-forgotten-felines.md)*
-*Roles register: [docs/forgotten-felines/registers/roles-and-responsibilities-register.md](../docs/forgotten-felines/registers/roles-and-responsibilities-register.md)*
+*Source analysis: [adch-compliance-analysis-forgotten-felines.md](../assessments/adch-compliance-analysis-forgotten-felines.md)*
+*Full audit: [adch-policy-suite-audit-2026-04-14.md](../assessments/adch-policy-suite-audit-2026-04-14.md)*
+*Roles register: [roles-and-responsibilities-register.md](../registers/roles-and-responsibilities-register.md)*

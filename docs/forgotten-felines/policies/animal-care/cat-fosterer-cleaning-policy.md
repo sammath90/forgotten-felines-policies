@@ -2,6 +2,12 @@
 
 **Forgotten Felines Cat Rescue — Charity No. 1181190**
 
+**Version:** 2.0
+**Last Reviewed:** 2026-04-14
+**Next Review Due:** 2027-04-14
+**Approved by:** _[Founder/Trustee — to be signed]_
+**Approval Date:** _[to be signed]_
+
 ---
 
 ## 1. Purpose
@@ -26,6 +32,16 @@ Foster carers must:
 - Minimise cross-contamination between foster animals and resident pets
 - Follow any isolation instructions provided by the rescue
 
+### 3.1 Hygiene and welfare balance (Standard 15)
+
+Cleaning practice must balance hygiene with the cat's psychological welfare. A foster room that is clinically spotless but stripped of all familiar scent is stressful for a cat, especially during the first 7–14 days of a placement. Foster carers should:
+
+- Remove soiled bedding and wash items promptly, but **avoid cleaning every scented item at the same time**
+- Where multiple hides, beds, or blankets are in use, rotate washing so at least one familiar-scented item remains in the room during any given clean
+- Preserve the cat's scratching surface, favourite hide, or an unwashed blanket during a change-of-occupancy-style clean for the same cat
+- Give the cat a quiet space to retreat to while cleaning takes place
+- Replace familiar items immediately after cleaning surfaces are dry
+
 ---
 
 ## 4. Cleaning Frequency Requirements
@@ -49,24 +65,31 @@ Thorough cleaning and disinfection of:
 - Floors and surfaces in the cat's area
 - Wash all bedding, blankets, and soft furnishings
 
-### 4.3 Between Foster Placements
+### 4.3 Between Foster Placements (Standard 18)
 
-Before a new cat arrives:
+When one cat leaves and before the next cat arrives, the foster room must be **thoroughly cleaned, disinfected, and fully dried** at change of occupancy. Foster carers must:
 
-- Perform a full deep clean of the foster area
-- Disinfect all surfaces, equipment, and carriers
-- Replace or thoroughly wash all bedding and soft items
+- Perform a full deep clean of the foster area (all surfaces, floors, skirting, walls within reach, shelves, scratching posts, carrier, feeding stations, and litter trays)
+- Disinfect all surfaces, equipment, and carriers with an approved disinfectant at the correct dilution and contact time
+- Replace or thoroughly wash all bedding, blankets, and soft items
+- **Allow all surfaces to fully dry** before the next cat is placed — damp surfaces can harbour pathogens
+- Observe a **minimum 24-hour rest period** between the deep clean and the next placement wherever operationally possible
+
+The Fostering Coordinator will not schedule a new placement into a foster home until the Coordinator has confirmation that the change-of-occupancy clean has been completed.
 
 ---
 
-## 5. Approved Cleaning Products
+## 5. Approved Cleaning Products and Chemical Storage (Standards 20, 21)
 
 Foster carers must:
 
-- Use pet-safe disinfectants approved by Forgotten Felines Cat Rescue (Anigiene)
+- Use pet-safe disinfectants approved by Forgotten Felines Cat Rescue (Anigiene or equivalent)
 - Follow manufacturer instructions for dilution and contact time
-- Avoid products toxic to cats (e.g. phenol-based disinfectants such as some household cleaners)
+- **Never** use phenolic disinfectants (including some household cleaners) — they are toxic to cats (Standard 20)
 - Never mix cleaning chemicals
+- **Store all cleaning chemicals securely** — in a locked cupboard, high shelf, or sealed container out of reach of cats, resident pets, and children (Standard 21)
+- Store chemicals in their original containers with the manufacturer's label intact, following manufacturer instructions for handling and disposal
+- Keep a dedicated set of foster-room cleaning equipment that is not shared with household areas
 
 ---
 
@@ -166,13 +189,24 @@ Failure to follow this policy may result in:
 
 ---
 
-## 15. Review
+## 15. Related Documents
 
-This policy will be reviewed annually or as required to reflect best practice and veterinary guidance.
+- Fostering Policy
+- Foster Home Assessment Checklist
+- Cat Isolation on Arrival Policy
+- Cat Intake and Medical Care Policy
+- Named Veterinary Practices Register
+- Fosterer Training Programme
 
 ---
 
-## 16. Acknowledgement
+## 16. Review
+
+This policy is reviewed at least annually, or sooner if ADCH standards, legislation, or veterinary guidance changes.
+
+---
+
+## 17. Acknowledgement
 
 I confirm that I have read and agree to follow this policy:
 
