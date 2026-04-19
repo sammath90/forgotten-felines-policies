@@ -12,9 +12,9 @@
 
 ## About Us
 
-Rehoming perfectly healthy cats is a joy — but rehoming a disabled cat, a cat that has been abused, or a street cat, is a gift. With rescues becoming full to bursting with cats which fall into the above categories, spaces become limited. As people rush to adopt kittens we try to promote the "other" cats that are in rescues, sanctuaries, and abroad that desperately need help and most importantly loving homes.
+Rehoming perfectly healthy cats is a joy — but rehoming a disabled cat, a cat that has been abused, or a street cat, is a gift. With rescues becoming full to bursting with cats which fall into the above categories, spaces become limited. As people rush to adopt kittens we try to promote the "other" cats that are in rescues and sanctuaries that desperately need help and most importantly loving homes.
 
-Having disabled cats ourselves we know how rewarding their love can be. Our intention is to promote those cats that are passed by when people visit rescues: the ones that hide, the ones that look ill, the ones that hiss, and the ones abroad that have been so badly neglected trust will take years to rebuild. We hope to change people's opinions and stereotypes about FIV cats, to see the cat not the virus, and to embrace them for the time they have with you — which could be many years.
+Having disabled cats ourselves we know how rewarding their love can be. Our intention is to promote those cats that are passed by when people visit rescues: the ones that hide, the ones that look ill, the ones that hiss, and the ones that have been so badly neglected trust will take years to rebuild. We hope to change people's opinions and stereotypes about FIV cats, to see the cat not the virus, and to embrace them for the time they have with you — which could be many years.
 
 ---
 
@@ -35,12 +35,12 @@ Volunteering is a great way to share your enthusiasm, skills, and ideas whilst h
 We have a range of opportunities for volunteers to get involved in:
 
 - **Fostering** — Cats and kittens will be placed at volunteering homes
-- **Home Checks** — Visiting potential adopters' homes to assess suitability
+- **Home Checks** — Visiting potential adopters' homes to assess suitability - where applicable
 - **Fundraising** — Helping to raise funds for Forgotten Felines via agreed methods such as raffles, collections, fayres, events, sponsorship, etc.
-- **Trapping** — One of our aims is to remove cats living on the streets from their difficult situation and to have them neutered and homed whenever possible. Part of this ongoing strategy will involve trapping — full training will be given.
-- **Vet Visits** — All cats and kittens who come into our care will at some point need vet visits. Not all volunteers can drive, so collection and drop-off at vets is a vital role.
+- **Trapping** — One of our aims is to remove cats living on the streets from their terrible situation and to have them neutered, vaccinated, health checked, chipped and homed whenever possible. Part of this ongoing strategy will involve trapping — full training will be given.
+- **Vet Visits** — All cats and kittens who come into our care will be seen within 7 days at some point need vet visits. Not all volunteers can drive, so collection and drop-off at vets is a vital role.
 
-Once we receive a copy of your completed registration form, a home visit will be arranged by a member of our team where more information on specific opportunities can be discussed. Roles will be dependent upon home setting, time available, and your own personal interests.
+Once we receive a copy of your completed agreement, a home visit will be arranged by a member of our team where more information on specific opportunities can be discussed. Roles will be dependent upon home setting, time available, and your own personal interests.
 
 ---
 

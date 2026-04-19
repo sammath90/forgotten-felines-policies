@@ -129,6 +129,8 @@ Every cat is neutered before adoption wherever veterinary advice allows. Where a
 ## 10. Related Documents
 
 - Fostering Policy
+- Support Adoption Policy
+- FIV Cat Policy
 - Cat Intake and Medical Care Policy
 - Forgotten Felines Adopter Visit Policy
 - Forgotten Felines Fosterer Visit Policy

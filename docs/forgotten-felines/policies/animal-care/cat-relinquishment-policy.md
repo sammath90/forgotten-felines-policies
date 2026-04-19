@@ -43,15 +43,15 @@ If a cat has a microchip where the original owner cannot be contacted, or the mi
 
 ## 3. Surrendered Cats
 
-If a cat is surrendered to Forgotten Felines, the relevant surrender form passing ownership to Forgotten Felines must be completed by the current owner. The form must be passed to a Trustee and retained in line with the Data Retention Policy.
+If a cat is surrendered to Forgotten Felines, the relevant surrender form passing ownership to Forgotten Felines must be completed by the current owner. The form must be passed to a Trustee and retained in line with the Data Retention Policy and added to the Cat file.
 
 The receiving fosterer records the intake on the cat's individual record and the Cat Intake and Medical Care Policy intake procedure applies from that point.
 
 ---
 
-## 4. Feral Cats (Standards 49, 50)
+## 4. Timid Cats (Standards 49, 50)
 
-Adult feral cats are not suitable as companion animals and Forgotten Felines does not attempt to socialise them.
+Adult timid cats are not suitable as companion animals and Forgotten Felines does not attempt to socialise them.
 
 - **Trap-neuter-return (TNR):** where an adult feral cat is trapped (by Forgotten Felines or a partner), the cat is taken directly to a nominated vet for examination, neutering, ear-tipping (for neuter identification from a distance), any necessary immediate veterinary care, and release to a suitable environment as soon as possible.
 - **Confinement limit:** an adult feral cat must not be kept in confinement any longer than necessary, and never for **more than 48 hours** unless immediate veterinary intervention is required. The 48-hour limit is absolute.

@@ -2,7 +2,7 @@
 
 **Organisation:** Forgotten Felines Cat Rescue
 **Charity No.:** 1181190
-**Version:** v0.9 (Draft)
+**Version:** v1.1 (Draft)
 **Date:** 2026-04-19
 **Next Review:** 2027-04-07
 **Document Owner:** Sam Mathias
@@ -34,7 +34,7 @@ This register names the individual responsible for each key function within Forg
 | Chair | Bev Hibbert | Casting vote on trustee decisions; leads trustee meetings |
 | Founder | Bev Hibbert | |
 | Treasurer / Accounts | Bev Hibbert | Day-to-day financial management |
-| Lottery Licence Holder | [TBC] | Named individual on Gambling Act licence — must verify against licence document |
+| Lottery Licence Holder | Bev Hibbert | Named individual on Gambling Act licence — must verify against licence document |
 | Data Protection Lead | Sam Mathias | Handles subject access requests; reports breaches to ICO within 72 hours |
 | Safeguarding Lead | Becca James | Named lead for recognising and escalating safeguarding concerns |
 | Crisis / Media Contact | Becca James | Speaks for the charity if an incident becomes public |
@@ -44,16 +44,17 @@ This register names the individual responsible for each key function within Forg
 
 | Role | Named Individual | Notes |
 |---|---|---|
-| Cat Intake Lead | [TBC] | Formally accepts cats into the rescue's care (relinquishments, strays). Required by ADCH Standards 1–4 |
+| Cat Intake Lead | Becca James | Formally accepts cats into the rescue's care (relinquishments, strays). Required by ADCH Standards 1–4 |
 | Isolation Coordinator | Becca James (Vet Liaison) | Owns transfers to the designated isolation practice under ADCH Standard 13 and the Cat Isolation on Arrival Policy § 13 |
-| Behavioural Support Contact | [TBC] | Named trained/experienced behaviourist (internal or external) per ADCH Standard 55. Must be contactable for welfare consults on cats presenting unwanted behaviour |
+| Behavioural Support Contact | Bev Hibbert | Named trained/experienced behaviourist (internal or external) per ADCH Standard 55. Must be contactable for welfare consults on cats presenting unwanted behaviour |
 | Transport Coordinator | Celia Maher | Coordinates and authorises cat transport logistics across foster, vet, and adoption journeys |
-| Senior Cats Lead (Older Cats) | [TBC] | Leads welfare planning and placement oversight for older cats in care |
+| Elderly Cats Lead | Claire Burgess | Leads welfare planning and placement oversight for older cats in care |
 | Microchipping / Chip Changes | Sam Mathias | |
 | Flea & Wormer Treatments | Sam Mathias | |
 | Food Ordering | Rhian Vaughan | |
 | Vet Liaison | Becca James | Primary contact with nominated vet practice(s); maintains the Named Veterinary Practices Register with the Fostering Coordinator |
 | Home Checker | Trustee vote | Virtual assessment — decision made collectively by trustees; operationalised through the Foster Home Assessment Checklist and Foster Home Register |
+| Trapping Coordinator | Eryl Lloyd | Handles coordination and training for trapping of cats |
 
 ### Operations — Adoptions & Fostering
 
@@ -62,7 +63,7 @@ This register names the individual responsible for each key function within Forg
 | Adoption Approvals | Trustee vote | Decision made collectively by trustees — no single named approver |
 | On-Call Contact for Fosterers | Becca James, Julia Card, Rhian Vaughan, Claire Burgess, Sam Mathias | Rota shared across Foster Coordinators |
 | Foster Coordinator | Becca James, Julia Card, Rhian Vaughan, Claire Burgess, Sam Mathias | Shared role — coordinates foster placements and visits |
-| Long-Term Foster Lead | [TBC] | Oversees long-stay foster placements, welfare review cadence, and capacity planning |
+| Support Adoption Lead | Becca James | Oversees Support Adoption placements, welfare check-in cadence, and Support Plan reviews |
 
 ### Communications & Administration
 
@@ -84,16 +85,21 @@ This register names the individual responsible for each key function within Forg
 - Founder
 - Chair — leads trustee meetings, casting vote on decisions
 - Treasurer / Accounts — manages charity finances
+- Lottery Licence Holder — named individual on Gambling Act licence
+- Behavioural Support Contact — welfare consults on cats presenting unwanted behaviour (ADCH Standard 55)
 - Complaints escalation — final point of escalation for serious complaints (named in Bullying & Harassment Policy)
 
 ### Becca James
+- Cat Intake Lead — formally accepts cats into care (relinquishments, strays)
+- Isolation Coordinator — owns transfers to designated isolation practice (ADCH Standard 13)
+- Support Adoption Lead — oversees Support Adoption placements and Support Plan reviews
+- Safeguarding Lead
+- Crisis / Media Contact
+- Vet Liaison
 - Insurance — manages charity insurance
 - Fundraising Lead
 - Foster Coordinator
 - On-Call Contact for Fosterers (rota)
-- Safeguarding Lead
-- Crisis / Media Contact
-- Vet Liaison
 - Main Social Media — Facebook, Instagram, TikTok
 - Website Content — updates content on the charity website
 
@@ -103,8 +109,7 @@ This register names the individual responsible for each key function within Forg
 
 ### Eryl Lloyd
 - Trustee
-- Currently inactive due to ill health
-- Responsibilities: [TBC — to be reviewed on return]
+- Trapping Coordinator — coordination and training for trapping of cats
 
 ### Julia Card
 - Foster Coordinator
@@ -116,9 +121,9 @@ This register names the individual responsible for each key function within Forg
 - On-Call Contact for Fosterers (rota)
 
 ### Claire Burgess
+- Elderly Cats Lead — welfare planning and placement oversight for older cats in care
 - Foster Coordinator
 - On-Call Contact for Fosterers (rota)
-- Additional responsibilities: [TBC]
 
 ### Sam Mathias
 - Microchipping / Chip Changes
@@ -157,13 +162,6 @@ This register names the individual responsible for each key function within Forg
 
 | Role | Why It Must Be Named | Priority |
 |---|---|---|
-| Lottery Licence Holder | Named on Gambling Act licence — must verify against licence document | High |
-| Cat Intake Lead | ADCH Standards 1–4 intake procedure requires a named decision-maker; Cat Relinquishment Policy § 5 references this role | High |
-| Behavioural Support Contact | Required by ADCH Standard 55 — a named trained/experienced behaviourist (internal or external) that Forgotten Felines can consult on cats presenting unwanted behaviour. Referenced in the Fosterer Training Programme and the Fostering Policy | High |
-| Cat Intake Lead | Intake procedure requires a named decision-maker | Medium |
-| Senior Cats Lead (Older Cats) | Role unassigned following removal of previous holder | Medium |
-| Long-Term Foster Lead | Role unassigned following removal of previous holder | Medium |
-| Claire Burgess — additional responsibilities | Partial only | Low |
 
 ---
 
@@ -199,6 +197,8 @@ This register names the individual responsible for each key function within Forg
 | v0.8 | 2026-04-12 | Sam Mathias | Removed Julia Card partial responsibilities gap; her known roles (Foster Coordinator, On-Call Contact) stand as complete |
 | v0.9 | 2026-04-14 | Sam Mathias | Added Isolation Coordinator (assigned to Becca James as Vet Liaison) and Behavioural Support Contact (TBC) roles per ADCH Standards 13 and 55. Cross-referenced the full Named Veterinary Practices Register and the Vet Arrangement Letter Template in Section 5 |
 | v0.9 | 2026-04-19 | Sam Mathias | Removed Claire Burgess from Senior Cats Lead and Long-Term Foster Lead; both roles now [TBC] and added to Section 4 assignment gaps |
+| v1.0 | 2026-04-19 | Sam Mathias | Renamed Long-Term Foster Lead to Support Adoption Lead to reflect new Support Adoption Policy; updated Section 4 accordingly |
+| v1.1 | 2026-04-19 | Sam Mathias | Synced People Directory (Section 2) with Section 1 — added new role assignments for Bev, Becca, Claire, Eryl; fixed typo in Elderly Cats Lead; cleared Section 4 of all now-assigned roles |
 
 ---
 

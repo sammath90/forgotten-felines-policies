@@ -173,6 +173,7 @@ Recognising the emotional impact of euthanasia:
 - Support will be offered to staff and volunteers
 - Debriefing may be provided following difficult cases
 - A culture of openness and compassion will be maintained
+- Signposting to Pet Grief Support
 
 ---
 
@@ -203,6 +204,7 @@ This policy aligns with:
 - Named Veterinary Practices Register
 - Roles and Responsibilities Register
 - Forgotten Felines Emergency Plan
+- Euthanasia Authorisation Form
 
 ---
 

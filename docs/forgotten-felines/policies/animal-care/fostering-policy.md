@@ -187,6 +187,8 @@ Any use of a crate for veterinary recovery must be recorded on the cat's individ
 - High-risk or sick cats, or cats where advised by a vet, are blood-tested for FIV and FeLV.
 - All cats are neutered before rehoming wherever possible. Kittens are neutered by 4 months of age wherever veterinary advice allows (Standards 65, 66).
 - Forgotten Felines' nominated veterinary practices are listed in the Named Veterinary Practices Register (Standard 51). A formal arrangement is held with at least one practice for isolation of infectious cats if required (Standard 13).
+- Where possible, the same vet should see the cat at each visit to ensure continuity of care and build familiarity with the cat's history.
+- If a fosterer has any concern about the way a cat has been treated by a vet, or about the advice given, they should raise it with the Fostering Coordinator as soon as possible. The Fostering Coordinator will follow up with the practice or arrange a second opinion where appropriate.
 
 ---
 
@@ -225,6 +227,7 @@ Fosterers record daily care observations on the cat's log and report any inciden
 - Fosterer Training Programme and Fosterer Training Record
 - Fostering Agreement
 - Cat Intake Policy
+- FIV Cat Policy
 - Cat Isolation on Arrival Policy
 - Cat Fosterer Cleaning Policy
 - Cat Transportation Policy
