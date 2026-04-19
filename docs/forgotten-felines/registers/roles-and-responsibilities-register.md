@@ -3,8 +3,8 @@
 **Organisation:** Forgotten Felines Cat Rescue
 **Charity No.:** 1181190
 **Version:** v0.9 (Draft)
-**Date:** 2026-04-14
-**Next Review:** 2027-04-14
+**Date:** 2026-04-19
+**Next Review:** 2027-04-07
 **Document Owner:** Sam Mathias
 
 ---
@@ -48,7 +48,7 @@ This register names the individual responsible for each key function within Forg
 | Isolation Coordinator | Becca James (Vet Liaison) | Owns transfers to the designated isolation practice under ADCH Standard 13 and the Cat Isolation on Arrival Policy § 13 |
 | Behavioural Support Contact | [TBC] | Named trained/experienced behaviourist (internal or external) per ADCH Standard 55. Must be contactable for welfare consults on cats presenting unwanted behaviour |
 | Transport Coordinator | Celia Maher | Coordinates and authorises cat transport logistics across foster, vet, and adoption journeys |
-| Senior Cats Lead (Older Cats) | Claire Burgess | Leads welfare planning and placement oversight for older cats in care |
+| Senior Cats Lead (Older Cats) | [TBC] | Leads welfare planning and placement oversight for older cats in care |
 | Microchipping / Chip Changes | Sam Mathias | |
 | Flea & Wormer Treatments | Sam Mathias | |
 | Food Ordering | Rhian Vaughan | |
@@ -62,7 +62,7 @@ This register names the individual responsible for each key function within Forg
 | Adoption Approvals | Trustee vote | Decision made collectively by trustees — no single named approver |
 | On-Call Contact for Fosterers | Becca James, Julia Card, Rhian Vaughan, Claire Burgess, Sam Mathias | Rota shared across Foster Coordinators |
 | Foster Coordinator | Becca James, Julia Card, Rhian Vaughan, Claire Burgess, Sam Mathias | Shared role — coordinates foster placements and visits |
-| Long-Term Foster Lead | Claire Burgess | Oversees long-stay foster placements, welfare review cadence, and capacity planning |
+| Long-Term Foster Lead | [TBC] | Oversees long-stay foster placements, welfare review cadence, and capacity planning |
 
 ### Communications & Administration
 
@@ -118,8 +118,6 @@ This register names the individual responsible for each key function within Forg
 ### Claire Burgess
 - Foster Coordinator
 - On-Call Contact for Fosterers (rota)
-- Long-Term Foster Lead
-- Senior Cats Lead (Older Cats)
 - Additional responsibilities: [TBC]
 
 ### Sam Mathias
@@ -162,6 +160,9 @@ This register names the individual responsible for each key function within Forg
 | Lottery Licence Holder | Named on Gambling Act licence — must verify against licence document | High |
 | Cat Intake Lead | ADCH Standards 1–4 intake procedure requires a named decision-maker; Cat Relinquishment Policy § 5 references this role | High |
 | Behavioural Support Contact | Required by ADCH Standard 55 — a named trained/experienced behaviourist (internal or external) that Forgotten Felines can consult on cats presenting unwanted behaviour. Referenced in the Fosterer Training Programme and the Fostering Policy | High |
+| Cat Intake Lead | Intake procedure requires a named decision-maker | Medium |
+| Senior Cats Lead (Older Cats) | Role unassigned following removal of previous holder | Medium |
+| Long-Term Foster Lead | Role unassigned following removal of previous holder | Medium |
 | Claire Burgess — additional responsibilities | Partial only | Low |
 
 ---
@@ -197,6 +198,7 @@ This register names the individual responsible for each key function within Forg
 | v0.7 | 2026-04-11 | Sam Mathias | Updated out-of-hours escalation contact to On-Call Contact (Foster Coordinator rota) for consistency with assigned role ownership |
 | v0.8 | 2026-04-12 | Sam Mathias | Removed Julia Card partial responsibilities gap; her known roles (Foster Coordinator, On-Call Contact) stand as complete |
 | v0.9 | 2026-04-14 | Sam Mathias | Added Isolation Coordinator (assigned to Becca James as Vet Liaison) and Behavioural Support Contact (TBC) roles per ADCH Standards 13 and 55. Cross-referenced the full Named Veterinary Practices Register and the Vet Arrangement Letter Template in Section 5 |
+| v0.9 | 2026-04-19 | Sam Mathias | Removed Claire Burgess from Senior Cats Lead and Long-Term Foster Lead; both roles now [TBC] and added to Section 4 assignment gaps |
 
 ---
 
