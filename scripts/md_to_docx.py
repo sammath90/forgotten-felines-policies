@@ -27,6 +27,7 @@ except ImportError:  # pragma: no cover
 
 REPO = Path(__file__).resolve().parent.parent
 PUBLISHED = REPO / "docs/forgotten-felines/published-policies"
+TEMPLATE = REPO / "docs/forgotten-felines/templates/policy-template.docx"
 
 JOBS: list[tuple[str, str]] = [
     # Animal-care v2.0 policies
@@ -48,8 +49,12 @@ JOBS: list[tuple[str, str]] = [
      "death-of-a-cat-policy.docx"),
     ("docs/forgotten-felines/policies/animal-care/escape-of-a-cat-policy.md",
      "escape-of-a-cat-policy.docx"),
+    ("docs/forgotten-felines/policies/animal-care/fiv-cat-policy.md",
+     "fiv-cat-policy.docx"),
     ("docs/forgotten-felines/policies/animal-care/fostering-policy.md",
      "fostering-policy.docx"),
+    ("docs/forgotten-felines/policies/animal-care/support-adoption-policy.md",
+     "support-adoption-policy.docx"),
     ("docs/forgotten-felines/policies/animal-care/forgotten-felines-emergency-plan.md",
      "forgotten-felines-emergency-plan.docx"),
     # Visits and volunteers v2.0
@@ -73,6 +78,8 @@ JOBS: list[tuple[str, str]] = [
     ("docs/forgotten-felines/registers/roles-and-responsibilities-register.md",
      "roles-and-responsibilities-register.docx"),
     # Templates
+    ("docs/forgotten-felines/templates/euthanasia-authorisation-form.md",
+     "euthanasia-authorisation-form.docx"),
     ("docs/forgotten-felines/templates/fosterer-training-programme.md",
      "fosterer-training-programme.docx"),
     ("docs/forgotten-felines/templates/vet-arrangement-letter-template.md",
@@ -285,10 +292,15 @@ def parse_blocks(lines: list[str]):
 # --- Rendering -----------------------------------------------------------
 
 def render_docx(blocks, out_path: Path) -> None:
-    doc = Document()
-    normal = doc.styles["Normal"]
-    normal.font.name = "Calibri"
-    normal.font.size = Pt(11)
+    doc = Document(str(TEMPLATE) if TEMPLATE.exists() else None)
+    if not TEMPLATE.exists():
+        normal = doc.styles["Normal"]
+        normal.font.name = "Calibri"
+        normal.font.size = Pt(11)
+    for p in doc.paragraphs:
+        p._element.getparent().remove(p._element)
+    for t in doc.tables:
+        t._element.getparent().remove(t._element)
 
     for block in blocks:
         kind = block[0]
