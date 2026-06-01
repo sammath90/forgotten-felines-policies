@@ -3,8 +3,8 @@
 **Forgotten Felines Cat Rescue — Charity No. 1181190**
 
 **Version:** 2.0
-**Last Reviewed:** 2026-04-14
-**Next Review Due:** 2027-04-14
+**Last Reviewed:** 2026-06-01
+**Next Review Due:** 2027-06-01
 **Approved by:** _[Founder/Trustee — to be signed]_
 **Approval Date:** _[to be signed]_
 

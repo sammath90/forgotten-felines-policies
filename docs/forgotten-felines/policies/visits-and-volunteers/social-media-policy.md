@@ -155,7 +155,9 @@ Any content that discriminates against or harasses individuals on the basis of a
 
 ### Lobbying Act
 
-Be aware of the rules around political campaigning, particularly during election periods.
+Charities are legally allowed to campaign to bring about a change in policy or law to further their organisational purpose. In most cases, spending on charity campaigns that are in accordance with charity law will not be regulated under electoral law. However, the Lobbying Act (2014) provides that during national elections (known as regulated periods) spending on campaigning activities may be regulated.
+
+Charities which spend more than £20,000 in England, or £10,000 in Scotland, Wales, or Northern Ireland, during the regulated period need to register with the Electoral Commission. To abide by the Lobbying Act, campaigning activity on social media must not be seen as intending to influence people's voting choices. During these periods, all campaigning activity will be reviewed by the Trustees.
 
 ### Use of Social Media in the Recruitment Process
 
@@ -195,6 +197,8 @@ Any concern about a post's impact on cat welfare should be escalated to the Trus
 ## Public Interest Disclosure
 
 Volunteers who have genuine concerns about wrongdoing within Forgotten Felines are encouraged to raise these with the Trustees. Volunteers will not be penalised for making disclosures in good faith in accordance with whistleblowing legislation.
+
+Under the Public Interest Disclosure Act 1998, if a volunteer releases information through Forgotten Felines' social media channels that is considered to be in the public interest, Forgotten Felines' Whistleblowing Policy must be initiated before any further action is taken.
 
 ---
 

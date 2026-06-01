@@ -3,8 +3,8 @@
 **Forgotten Felines Cat Rescue — Charity No. 1181190**
 
 **Version:** 2.0
-**Last Reviewed:** 2026-04-14
-**Next Review Due:** 2027-04-14
+**Last Reviewed:** 2026-06-01
+**Next Review Due:** 2027-06-01
 **Approved by:** _[Founder/Trustee — to be signed]_
 **Approval Date:** _[to be signed]_
 
@@ -18,7 +18,7 @@ Forgotten Felines follows a respectful, structured process if a cat or kitten di
 
 1. The fosterer contacts the on-duty Foster Coordinator immediately.
 2. The Foster Coordinator informs the Vet Liaison. If the cat was receiving veterinary care, the nominated vet is informed so the clinical record can be updated.
-3. The cat is taken to the nominated vet (Barrmore Veterinary Practice or as directed by the Vet Liaison) for confirmation and handling arrangements.
+3. The cat is taken to our partner vet, Barrmore Veterinary Practice, for confirmation and cremation arrangements (or to an alternative practice only where Barrmore is unavailable, as directed by the Vet Liaison).
 4. The fosterer records the date, time, and circumstances of death in the cat's individual care log.
 
 ---
@@ -71,6 +71,7 @@ Losing a cat in care is emotionally difficult, especially in long-term placement
 
 - The Foster Coordinator offers a supportive debrief call in the days following the death.
 - Peer support is available via the Foster Coordinator group chat.
+- Fosterers are signposted to a pet grief counselling/bereavement support service.
 - Where a fosterer is significantly affected, the Foster Coordinator may pause new placements at the fosterer's request.
 - No blame attaches to the fosterer unless there is clear evidence of welfare failure; any such concern is handled under the Fostering Policy and, where appropriate, the Safeguarding and Harassment policies.
 

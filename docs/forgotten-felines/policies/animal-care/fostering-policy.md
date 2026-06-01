@@ -3,8 +3,8 @@
 **Forgotten Felines Cat Rescue — Charity No. 1181190**
 
 **Version:** 2.0
-**Last Reviewed:** 2026-04-14
-**Next Review Due:** 2027-04-14
+**Last Reviewed:** 2026-06-01
+**Next Review Due:** 2027-06-01
 **Approved by:** _[Founder/Trustee — to be signed]_
 **Approval Date:** _[to be signed]_
 
@@ -70,7 +70,7 @@ Foster cats must be kept strictly separated from resident pets and from any cats
 - Foster cats from one source must never be mixed with foster cats from another source, even if both groups are fully vaccinated.
 - A "source" means a single household, litter, or intake. Cats from the same household that have been living together harmoniously may be housed together in a single foster room, in line with Standard 38.
 - Resident cats in the household must be neutered, fully vaccinated (core vaccines up to date, verified by vaccination card or vet letter), and physically separated from the foster area at all times.
-- Foster cats remain indoors at all times and are not permitted outside access.
+- Foster cats remain indoors and are not permitted to roam outside. Access to a secure, escape-proof catio is permitted and counts as part of the cat's indoor environment.
 
 ### 4.2 Dedicated foster room
 
@@ -204,7 +204,7 @@ Any use of a crate for veterinary recovery must be recorded on the cat's individ
 
 ## 11. Transport (Standard 54)
 
-All cats and kittens are transported in a secure, well-ventilated carrier that is large enough for the cat to stand, move around, and lie down, in line with the Cat Transportation Policy. Forgotten Felines provides every fosterer with an MDC carrier and fitted cover.
+All cats and kittens are transported in a secure, well-ventilated carrier that is large enough for the cat to stand, move around, and lie down, in line with the Cat Transportation Policy. Forgotten Felines provides every fosterer with an MDC carrier and fitted cover. Fabric carriers must not be used.
 
 - Adult cats are transported singly.
 - A mother and her kittens, or a litter of kittens under 12 weeks old, may be transported together.

@@ -3,8 +3,8 @@
 **Forgotten Felines Cat Rescue — Charity No. 1181190**
 
 **Version:** 2.0
-**Last Reviewed:** 2026-04-14
-**Next Review Due:** 2027-04-14
+**Last Reviewed:** 2026-06-01
+**Next Review Due:** 2027-06-01
 **Approved by:** _[Founder/Trustee — to be signed]_
 **Approval Date:** _[to be signed]_
 
@@ -43,7 +43,7 @@ If a cat has a microchip where the original owner cannot be contacted, or the mi
 
 ## 3. Surrendered Cats
 
-If a cat is surrendered to Forgotten Felines, the relevant surrender form passing ownership to Forgotten Felines must be completed by the current owner. The form must be passed to a Trustee and retained in line with the Data Retention Policy and added to the Cat file.
+If a cat is surrendered to Forgotten Felines, the relevant surrender form passing ownership to Forgotten Felines must be completed by the current owner. The form must be passed to a Trustee and uploaded onto the cat's file in Pawlytics, and retained in line with the Data Retention Policy.
 
 The receiving fosterer records the intake on the cat's individual record and the Cat Intake and Medical Care Policy intake procedure applies from that point.
 

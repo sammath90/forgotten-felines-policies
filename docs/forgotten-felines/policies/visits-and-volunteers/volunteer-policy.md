@@ -3,8 +3,8 @@
 **Forgotten Felines Cat Rescue — Charity No. 1181190**
 
 **Version:** 2.0
-**Last Reviewed:** 2026-04-14
-**Next Review Due:** 2027-04-14
+**Last Reviewed:** 2026-06-01
+**Next Review Due:** 2027-06-01
 **Approved by:** _[Founder/Trustee — to be signed]_
 **Approval Date:** _[to be signed]_
 
@@ -12,9 +12,9 @@
 
 ## About Us
 
-Rehoming perfectly healthy cats is a joy — but rehoming a disabled cat, a cat that has been abused, or a street cat, is a gift. With rescues becoming full to bursting with cats which fall into the above categories, spaces become limited. As people rush to adopt kittens we try to promote the "other" cats that are in rescues and sanctuaries that desperately need help and most importantly loving homes.
+Rehoming perfectly healthy cats is a joy — but rehoming a disabled cat, a cat that has been abused, or a street cat, is a gift. With rescues becoming full to bursting with cats which fall into the above categories, spaces become limited. As people rush to adopt kittens we try to promote the "other" cats that are in rescues, sanctuaries, and abroad that desperately need help and most importantly loving homes.
 
-Having disabled cats ourselves we know how rewarding their love can be. Our intention is to promote those cats that are passed by when people visit rescues: the ones that hide, the ones that look ill, the ones that hiss, and the ones that have been so badly neglected trust will take years to rebuild. We hope to change people's opinions and stereotypes about FIV cats, to see the cat not the virus, and to embrace them for the time they have with you — which could be many years.
+Having disabled cats ourselves we know how rewarding their love can be. Our intention is to promote those cats that are passed by when people visit rescues: the ones that hide, the ones that look ill, the ones that hiss, and the ones abroad that have been so badly neglected trust will take years to rebuild. We hope to change people's opinions and stereotypes about FIV cats, to see the cat not the virus, and to embrace them for the time they have with you — which could be many years.
 
 ---
 

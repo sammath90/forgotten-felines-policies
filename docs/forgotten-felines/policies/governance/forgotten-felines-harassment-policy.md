@@ -53,11 +53,9 @@ All people acting for or with Forgotten Felines must:
 
 ## 5. Reporting a Concern
 
-Concerns should be reported as soon as possible to one of the following:
+All complaints of harassment must be made to **Bev Hibbert (Founder)**, as soon as possible. This can be by email, phone call, or message. If the allegation is against a Trustee, Bev Hibbert will lead the investigation.
 
-- Safeguarding Lead (for safeguarding-related incidents)
-- Chair
-- Incident Reporting & Complaints owner
+For safeguarding-related incidents, the Safeguarding Lead should also be informed.
 
 Reports should include:
 
@@ -108,6 +106,8 @@ Depending on severity, outcomes may include:
 - Removal from volunteer or fosterer role
 - Escalation to trustees, regulators, or statutory agencies
 
+Where a harassment allegation is upheld, the volunteer or trustee will be asked to leave the charity.
+
 Serious or criminal behaviour may be referred to police and/or the Charity Commission.
 
 ---
@@ -115,7 +115,7 @@ Serious or criminal behaviour may be referred to police and/or the Charity Commi
 ## 9. Malicious or Bad-Faith Reports
 
 Reports made in good faith are supported, even if not upheld.  
-Knowingly false or malicious allegations may result in disciplinary action.
+Malicious or vexatious allegations of harassment will be dealt with by Bev Hibbert (Founder) in line with Charity Commission guidelines, and may result in disciplinary action.
 
 ---
 
@@ -141,4 +141,8 @@ Knowingly false or malicious allegations may result in disciplinary action.
 ## 12. Review
 
 This policy will be reviewed at least annually, or sooner following a serious incident or legal/regulatory change.
+
+---
+
+**Forgotten Felines Cat Rescue operates a zero tolerance policy against bullying and harassment.**
 
