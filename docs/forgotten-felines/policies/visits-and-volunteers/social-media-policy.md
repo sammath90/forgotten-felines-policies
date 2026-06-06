@@ -58,14 +58,11 @@ Our Trustees are responsible for the day-to-day publishing, monitoring, and mana
 
 **Facebook:**
 - *Forgotten Felines Cat Rescue* — used to promote the work of the Charity and for rehoming
-- *Forgotten Felines Fundraising* — used to raise funds for Forgotten Felines Cat Rescue
-- *Forgotten Felines Auction* — used to sell items donated to the Charity to raise funds
 
 **Twitter:** To promote the Charity and its work
 
 **Instagram:**
 - *Forgotten Felines* — to promote the work of the rescue
-- *My-velouria_maude* — to promote awareness of Manx Syndrome cats and follow V's progress
 
 ---
 
